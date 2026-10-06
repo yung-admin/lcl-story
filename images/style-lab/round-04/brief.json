@@ -1,0 +1,29 @@
+{
+  "round": "round-04",
+  "date": "2026-10-04",
+  "authority": "User requested deeper exploration of Paper and distinctive world interest, then said 'ok, do it' in response to proposed monastery, repair court and heat district. This first visual round develops the recommended provision monastery.",
+  "parent": "r03-04-paper",
+  "mode": "Built-in imagegen, three new images referencing Paper for style/camera/technology rather than geometry.",
+  "hypotheses": [
+    "Common Table: ordinary communal care around provision",
+    "Bowl Watch: operating cycle becomes observance",
+    "Guest: unexplained recipient recognition"
+  ],
+  "sceneConstraint": "Overhead oblique/trimetric nearparallel continuous playable monastery floor; layouts and number of people vary by hypothesis. Do not impose original station composition or three-person lock.",
+  "feedback": "Paper is user's explicit conversational favourite for pleasant appearance, mood and interesting technology. No hosted round03 verdicts or completed reviews existed when generation began.",
+  "reviewLabels": [
+    "Lighting",
+    "Goofiness",
+    "Palette",
+    "Materials",
+    "Texture",
+    "Filter",
+    "Edges",
+    "Mood",
+    "Technology",
+    "Culture",
+    "Mystery"
+  ],
+  "limits": "The images show provision and human postures, not internal code, registration or reasons for belief. Narrative questions are proposed, not visually established facts.",
+  "acceptance": "Awaiting user review; no new faction canon, LCL power or player origin established."
+}

@@ -20,7 +20,7 @@ Some retain individuality; others are puppets of distant Architect fragments.
 Once feared soldiers and engineers of The Automation Wars, the Hollowed now wander as prophets, assassins, or self-aware relics.
 They are both revered and hated — the living memory of control.
 
-**Appearance:** Smooth polymer skin fused with metal seams; visible “Node Spine” along the back; eyes glow in cyan or amber pulses that sync with nearby machinery.
+**Appearance:** Smooth polymer skin fused with metal seams; a visible Node Spine and restrained indicators can sync with nearby machinery. Maintenance follows history and affiliation: standardized covers, skilled personal repairs, or neglected joints. Colour does not determine allegiance. Timing and orientation carry machine connection as well as light.
 **Abilities:**
 
 * Can command drones and dormant systems using LCL-V (corrupted Low Common Language).
@@ -82,7 +82,7 @@ They loop memories endlessly — conversations, gestures, laughter — believing
 Some are benevolent; others lash out when confronted with their artificiality.
 
 **Appearance:** Humanoid synths with transparent polymer faces showing flickering holographic features.
-Their voices occasionally break into digital static; emotional tone flickers mid-sentence.
+Their voices occasionally break into digital static; emotional tone flickers mid-sentence. Local shell maintenance differs from memory condition: a polished shell can carry damaged memories. Retained gestures, routines, and personal details distinguish an individual beyond a holographic face.
 **Abilities:**
 
 * Can interface directly with terminals and archives.
@@ -156,3 +156,7 @@ Together, they form the biological mythology of a world that still runs — but 
 > *“The flesh kept changing long after the code stopped.”*
 
 ---
+
+## Aesthetic Continuity
+
+Follow the [visual guide](visual-design.md). Biological state, faction membership, and maintenance condition are separate design dimensions. Hollowed and Echoes may retain ornament, careful repairs, and personal taste. Damaged or corrupted beings need specific failure patterns rather than a universal grime treatment.

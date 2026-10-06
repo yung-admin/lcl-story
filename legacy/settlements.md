@@ -6,3 +6,7 @@
 | **Chlor Houses**     | Bio-engineer cults that grow food in recycled bioreactors.                                                           | Sell nutrient paste and organo-plastics.         | Pale green light, vines wrapped around reactor pipes.                             |
 | **Line Monks**       | Repair-order devotees who maintain one specific stretch of the Line as pilgrimage.                                   | Live on offerings from travelers.                | Rust robes with saffron trim; wear magnetic sand as ash marks.                    |
 | **Signal Barons**    | Warlord-merchants controlling antenna farms and comm towers.                                                         | Tax all long-distance transmissions.             | Neon-lit spires surrounded by dark farmland.                                      |
+
+## Settlement Design Direction — Accepted 2026-10-03
+
+Use the [visual guide](visual-design.md) and [regional construction notes](regions-locations.md). Rail-towns show exact machine corridors beside inhabited thresholds; Null Markets use locally powered commercial light; Chlor Houses reveal cultivation frames and tending work. Monastic sites distinguish deliberate isolation from dependence on automated provision. Every community includes skilled repairs, domestic routines, and ornament alongside survival equipment. Condition follows maintenance responsibility, not a universal layer of rust.

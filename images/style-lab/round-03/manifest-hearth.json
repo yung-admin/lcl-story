@@ -1,0 +1,30 @@
+{
+  "round": "round-03",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "id": "r03-01-hearth",
+      "title": "Hearth",
+      "parents": [
+        "r02-07-wash",
+        "r02-06-embers"
+      ],
+      "references": [
+        "images/style-lab/round-02/r02-07-wash.png",
+        "images/style-lab/round-02/r02-06-embers.png"
+      ],
+      "referenceRoles": [
+        "Composition and watercolor language",
+        "Palette and lighting"
+      ],
+      "prompt": "Use case: stylized-concept\nAsset type: LCL trimetric game art exploration, one landscape image, 16:9.\nPrimary request: Create the Hearth study: combine the genuinely painted, irregular watercolor language of image 1 (Wash) with the umber, rusty sienna and ember-amber warmth of image 2 (Embers). Image 1 is the main composition and medium reference; image 2 is color/mood reference only. Make a new watercolor painting, not a detailed 3D render with paper overlay. Keep the station topology of image 1 with exactly three people: repairer under left upper gallery, seated person/plant/tea at lower-left bench, traveler at closed transparent gate center-right. Stair and gallery left, tall concrete piers, coffee dispenser and relay on central pier, freight containers/rails/crane on right. A continuous playfield at consistent character scale, fixed elevated three-quarter overhead oblique/trimetric near-parallel camera, no horizon.\nStyle: broad translucent warm-grey and sepia pigment shapes, earthy muted sienna blooms, dry brush and broken ink contours, textured paper, selectively sharpen only people, gate and repair station; soften repeated machinery and floor detail into painterly masses. Preserve Wash's calm selective detail and tactile irregular pigment. Balanced abstraction, materially hand-painted, not glossy or photographic. Small amber lamps around repair bench and central pier illuminate islands of human care inside deep charcoal industrial shadows. Overall dark, intimate, melancholic rather than cozy fantasy; medium-low saturation, rusty warms localized rather than orange over everything. Three readable human silhouettes and a visible navigable floor. No extra people, plants, props, text, flames or fire, border, watermark, floating diorama, cinematic perspective or pastel cheerful palette.",
+      "path": "images/style-lab/round-03/r03-01-hearth.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a1034f-468b-7f52-95d5-53e0f665b435/exec-6339ca89-c11b-489c-b83f-1483e70213b7.png",
+      "observations": "Wash topology and all three people preserved closely. Broad mottled washes remain, warmer sienna/ochre across floor and piers, amber practical pools. More warm ambient than requested; some repetitive stair/rail and crane contours still precise. Inherits Wash's geometry/fixture differences from original station.",
+      "dimensions": {
+        "width": 1672,
+        "height": 941
+      }
+    }
+  ]
+}

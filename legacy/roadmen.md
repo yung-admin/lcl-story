@@ -54,7 +54,7 @@ They stop only for trade, raid, or repair.
 Half mechanic folklore, half road superstition.
 
 * **The Line** (the high-speed rail) is sacred — they paint its symbol on their vehicles.
-* They use old hazard paint as war-marking: yellow-black stripes, faded tape, neon grease.
+* They reuse hazard paint and route markings: yellow-black stripes, worn labels, and personal convoy signs. Scavenged illumination serves travel, work, or particular rituals.
 * Tattoos mimic circuit lines or highway signage.
 * They believe stopping for too long invites death — stagnation is blasphemy.
 * Offerings of fuel, oil, or blood are made before starting engines.
@@ -109,14 +109,14 @@ The term “Roadmen” is umbrella; there are distinct subcultures:
 
 ## **8. Visual Design**
 
-* **Materials:** rusted steel, patched armor, scavenged polymer panels, torn signage as capes.
+* **Materials:** steel, repaired armor, scavenged polymer, and reused signage. Clean tools, fitted repairs, and protective finishes coexist with weathering.
 * **Color Logic:**
 
   * *Amber* for movement,
   * *Hazard yellow* for tribe markings,
   * *Faded cyan* from stolen machine parts.
-* **Silhouette:** layered, asymmetric, heavy with tools and cables.
-* **Motion:** kinetic, restless; their vehicles always sputter, hiss, or hum.
+* **Silhouette:** arranged for travel and rapid pack-down: folding structures, secured cargo, compact repair kits, and equipment placed within working reach. Asymmetry follows real adaptations.
+* **Motion:** restless and purposeful. Well-maintained vehicles can move smoothly; sputtering and irregularity identify specific damage or improvisation. Wear concentrates on grips, loading points, joints, and road exposure.
 
 ---
 
@@ -159,3 +159,7 @@ they’re the ever-present opportunists, an ecosystem rather than a villain grou
 But unlike Fallout’s raiders, they serve a philosophical role: they’re the *animistic worshippers of motion*, the people who keep entropy going so the world doesn’t freeze completely.
 
 ---
+
+## Aesthetic Continuity
+
+Follow the [visual guide](visual-design.md) and [tone guide](tone-style.md). Convoy life includes personal decoration, careful repair, loyalty, and rest as well as noise and gallows humour. Their constant readiness to move distinguishes them from fixed Republic workshops.

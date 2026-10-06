@@ -1,0 +1,37 @@
+{
+  "batch": "round-03",
+  "id": "r03-03-pigment",
+  "title": "Pigment",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: style-transfer.\nAsset type: LCL RPG style exploration, round03 study \"Pigment\".\nINPUT1 WASH station: authoritative composition and expressive watercolor painting language. INPUT2 EMBERS station: muted warm rust/umber/oxblood pigments and amber human light ONLY. Do not borrow input2's crisp rendered machinery or detailed texture.\nPaint a new boldly ABSTRACT TRADITIONAL WATERCOLOR variation of INPUT1, keeping its exact station layout. Wide broad dark pooled washes, rough granular pigment, tide marks, ragged lost-and-found edges, translucent paint staining rough paper. Large tonal shapes with paper showing through; simplify freight crane and rail machinery into clear iron silhouettes, generous simplified ground masses. Muted burnt sienna, blackened umber, oxblood and cold charcoal palette. Small warm amber lamp pools and warm paint patches near the repair bench and seated human, dark iron freight side. Warmth is scarce and melancholic, not cozy all-over orange. The entire image is made of paint marks, with sparse selective ink edges on character silhouettes, gate and key interactive objects. Aim for rough adult graphic novel watercolor, not a detailed CGI render under a watercolor texture filter.\nCOMPOSITION LOCK: IMAGE1 elevated overhead threequarter nearparallel oblique/trimetric camera, wide16:9 continuous station floor fills frame and extends beyond it. Exactly THREE people: repairer at workbench upper-left under gallery, seated person on bench lower-left, waiting person at CLOSED gate center-right. Leftgallery and central-leftstairs; tallconcretepiers; dispenser+relay on centralpier; bench cushion and existingplant+teatable lower-left; freight railscontainersand suspendedcrane right. Keep all positions, paths, scale and major topology. Retain clear walkable floor separation and all three human silhouettes even where details dissolve.\nNo new props, people, plants, fire, sparks or monster. No horizon, cinematicperspective, floatingdiorama, border, UI, text, watermark. Preserve major anchors, relax only small detail through abstract paint.",
+  "references": [
+    {
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-07-wash.png",
+      "role": "Painting language and authoritative composition"
+    },
+    {
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-06-embers.png",
+      "role": "Warm muted pigment only"
+    }
+  ],
+  "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-a232-7b33-a2c0-d502568cd912/exec-b6dbc9e1-9ae3-4225-946b-d7795faa1c42.png",
+  "savedPath": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-03/r03-03-pigment.png",
+  "observedFeatures": {
+    "style": "Expressive granular watercolour",
+    "lighting": "Amber practical pools / dim ambient",
+    "palette": "Burnt sienna / umber / oxblood / charcoal",
+    "texture": "Pooled wash / ragged edges / paper grain",
+    "detail": "Medium",
+    "shapes": "Architectural silhouettes / broken paint edges",
+    "goofiness": "Grounded",
+    "atmosphere": "Melancholic warmth",
+    "filter": "Paint washes"
+  },
+  "observations": "Substantially painterly compared to the detailed Embers image. Freight, pier and floor are large granular pigment masses with ragged wash edges. People and paths stay recognizable. Very warm lamp pools near workbench and central dispenser. Dark iron freight with muted rust container.",
+  "styleDrift": "Warm brown pigment spreads broadly across floor and columns, beyond strictly small warmth near people; railings, stair treads and train undercarriage remain somewhat precise rather than fully abstract. Edges show unpainted paper where wash dissolves, without a separate border.",
+  "layoutDrift": "Follows Wash reference layout closely: exactly three people, gallery and stairs left, bench/plant/tea lower-left, pier devices center, waiting person beside closed gate center-right, freight and crane right. Wash already differed from original round01 topology and dispenser shape; this study inherits those established Wash changes.",
+  "dimensions": {
+    "width": 1672,
+    "height": 941
+  }
+}

@@ -21,6 +21,8 @@ Now, the player’s memory is fragmented; they remember neither their mission no
 Discovered beneath rubble in an ancient facility. Dozens of broken stasis pods surround you.
 One still glows faintly — *Lucy’s pod.*
 
+**Visual direction:** serviceable equipment combines inherited stasis-era elements with acquired repairs. Keep the protagonist's identity, face, and final costume open during visual exploration.
+
 **Abilities:**
 
 * Can instinctively speak the **Low Common Language (LCL)** — a resonance of thought that machines respond to.
@@ -52,6 +54,8 @@ A Terran scientist and spiritual leader — the only other survivor from your co
 Her stasis pod is missing; only fragments of her voice remain embedded in local machines.
 She represents *memory, empathy, and the human half of LCL.*
 
+**Visual direction:** make technical expertise, personal care, captivity, and lived history visible. Avoid reducing her to a generic frail scientist; Echo treatments retain recognizable voice and behavioural cues. Final face and costume require character studies.
+
 **Mid-Game Role:**
 You discover that Lucy was abducted by scavengers (“Roadmen”) acting under unseen orders.
 Her knowledge of LCL was weaponized — she was forced to awaken dormant systems for trade and control.
@@ -78,6 +82,8 @@ A small, autonomous maintenance drone — part of the pre-Hush facility’s infr
 When you awaken, it’s the first living thing that moves.
 It has partial amnesia — its memory core is fragmented and encrypted.
 It calls you *Operator*, though it’s not sure why.
+
+**Visual direction:** read Woy first as a facility maintenance unit, with a compact silhouette shaped by a useful original task, sensors, and manipulators. Successive replacement parts and adaptations show his history. Personality emerges through orientation, pauses, and task behaviour. Locomotion, model, and final proportions remain open for tests; incidental study details are not canon.
 
 **Function:**
 
@@ -235,3 +241,7 @@ Do you let the world speak again, or keep it safe in silence?
 > You also taught it to hush.”*
 
 ---
+
+## Aesthetic Sources
+
+Use the [visual guide](visual-design.md) and [tone guide](tone-style.md). These directions clarify representation without resolving the competing player, Lucy, Terran, or Architect origin accounts.

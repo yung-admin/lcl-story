@@ -1,0 +1,30 @@
+{
+  "round": "round-02",
+  "date": "2026-10-04",
+  "user_direction": "lets explore watercolor more, but it needs to be darker vibe.",
+  "saved_feedback": {
+    "round-01": {
+      "06-watercolour": {
+        "verdict": "mix",
+        "trait_ratings": {},
+        "notes": ""
+      }
+    },
+    "completed_round_review": false
+  },
+  "authority": "The user's explicit request starts this focused round without requiring completion of the broad first round.",
+  "composition_reference": "images/moodboard/station-overhead-tests/station-b-human-occupation.png",
+  "medium_reference": "images/style-lab/round-01/06-watercolour.png",
+  "hypotheses": [
+    "rain-heavy daylight",
+    "indigo lamp-lit night",
+    "soot and ink",
+    "bruised twilight",
+    "verdigris unease",
+    "melancholic ember warmth",
+    "loose descriptive redraw"
+  ],
+  "invariants": "Elevated near-parallel oblique/trimetric station view; continuous playfield; same principal architecture, closed gate, freight layout and three character positions.",
+  "acceptance": "Awaiting user review; these studies do not establish final style canon.",
+  "additional_probe": "Six reference edits retained mechanical detail; a seventh new painting tests abstraction with acknowledged layout drift."
+}

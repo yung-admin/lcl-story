@@ -1,0 +1,1 @@
+ALTER TABLE `round_reviews` ADD `intention` text DEFAULT '' NOT NULL;

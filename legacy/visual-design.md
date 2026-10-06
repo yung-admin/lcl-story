@@ -1,246 +1,201 @@
-
+---
+id: style-lcl-visual-language
+kind: style-guide
+canon-status: accepted
+updated: 2026-10-03
+scope: visual-direction
 ---
 
-# 🎨 VISUAL LANGUAGE & DESIGN
+# LCL / The Hush — Visual Language & Design
 
-The world of **The Hush** looks *functional, imperfect, and alive through decay*.
-Everything visible — objects, architecture, symbols, light — reflects the civilization’s moral code:
+> A continent that keeps maintaining itself, with people struggling to make it care for them again.
 
-> “If you maintain it, you own it.”
+This detailed direction was approved on 2026-10-03. The [active style guide](../docs/world/canon/style-guide.md) summarizes its rules. Use the [tone guide](tone-style.md), [factions](factions.md), and [regional directions](regions-locations.md) with it. The [earlier version](../_archive/aesthetics-2026-10-03/legacy/visual-design.md) is archived.
 
----
+## 1. Foundation — Function, Access, Human Presence
 
-## **1. The Foundational Look — Post-Industrial Realism**
+The world still works, but its systems no longer reliably include humans. Images show selective attention: a functioning machine beside an unmet human need.
 
-A vision of Europe extrapolated into the future, frozen in its repair cycle.
-The world feels **built, broken, and rebuilt again** — a century of patchwork layered atop lost design.
+European municipal and industrial construction supplies the foundation: rail halls, substations, pumping stations, public housing, freight yards, ports, and service tunnels. Future technology grows out of their construction logic.
 
-**Guidelines:**
+- Establish original purpose, structural loads, circulation, and servicing.
+- Give places an inherited design, current operator, and human response.
+- Show maintenance as care, expertise, coercion, necessity, or ritual.
+- Let ordinary life and beauty occupy the gaps in automation.
+- Give neon, grime, and spectacle a local cause.
 
-* Always reveal *how something works*: screws, bolts, vents, wiring.
-* Embrace **modularity and repairability** over sleekness.
-* Avoid ornamental sci-fi; prefer retrofitted municipal engineering.
-* Surfaces should read as **used but loved** — a world maintained by hands.
+## 2. Three Maintenance Conditions
 
-**Mood words:** utilitarian, practical, cinematic, asymmetrical, tactile.
+These conditions overlap inside places and objects. They are not three factions or a linear progress meter.
 
----
+| Condition | Construction and surfaces | Behaviour | Human consequence |
+| --- | --- | --- | --- |
+| Maintained by automation | Precise replacement modules, clean contact surfaces, repeated parts; weathering outside the maintenance remit | Reliable cycles, exact routing, sometimes sudden rapid motion | A clean food outlet still refuses a hungry person |
+| Maintained by people | Compatible repairs, accessible controls, adapted handholds, inspection marks, additions for comfort | Adjustments, improvisation, deliberate pauses for people | A freight landing becomes a shared kitchen or safe crossing |
+| Maintained by nobody | Broken seals, deposits, missing parts, seized joints, uncontrolled growth | Incomplete repetitions, instability, indefinite waiting | Former public spaces become unsafe or unusable |
 
-## **2. Industrial Europe in Orbit**
+A clean conveyor can pass through a flooded station while passenger benches decay. Dirt follows exposure and responsibility. New-looking components may appear where systems still replace parts or people restore a finish. The wider ability to manufacture new technology remains a separate lore question.
 
-Even space infrastructure follows continental design language — Euro-brutalism adapted for vacuum and dust.
-Think **railways turned skyways**, **cathedrals turned data spires**, **factories turned temples**.
+## 3. Visible History and Repair Signatures
 
-* Geometry: right angles softened by repetition and grime.
-* Materials: concrete composites, corroded steel, matte polymers.
-* Typography: multilingual civic fonts — DIN, Frutiger, Eurostile, Cyrillic — mixed with hand-painted corrections.
-* Signage: every sticker, stencil, and number tells ownership lineage.
+Read objects through four layers: original construction; automated replacement or human modification; personal marks and records; weathering shaped by exposure and use.
 
----
+Repairs range from desperate to meticulous. Show fitted plates, ceramic patches, numbered clamps, neat wiring, careful stitching, precision welds, and task-specific tools as well as tape and scrap.
 
-## **3. Layered Maintenance Aesthetic**
+Communities develop recognizable practices. Maker marks, fastening methods, or patch shapes can identify the last maintainer. Reserve quiet surfaces so interventions remain legible.
 
-Every structure tells a repair story through **visible strata of intervention**:
+Each repair asks: who fixed this, with what skill, for whose benefit, and what did they ignore?
 
-1. **Original design** – corporate or municipal standard.
-2. **Field modification** – taped wires, replacement panels, extra handles.
-3. **Personal mark** – graffiti, crest, note, or prayer.
-4. **Decay** – rust, chipped paint, sun bleaching.
+## 4. Materials and Scale
 
-The eye should always see evidence of *who fixed this last*.
+| Material | Maintained surfaces | Neglected surfaces | Evidence |
+| --- | --- | --- | --- |
+| Steel and iron | Polished contact edges, serviced joints, protective finishes | Oxidation around leaks and exposed seams | Maintenance boundaries and working loads |
+| Concrete and masonry | Reinforced cracks, drainage changes, fitted additions | Water staining, exposed reinforcement, failed edges | Original public use and later habitation |
+| Polymer and composite | Replacement covers, clean seals, repair clips | Fading, cracking, missing panels | Different generations of equipment |
+| Glass and ceramic | Clear sensor windows, cleaned panes, fitted patches | Deposits, fractures, fogging | Information someone still needs to see |
+| Fabric and wood | Stitching, washing, polish, painted ornament | Frayed contact points, damp damage, sun bleaching | Comfort and personal attachment |
 
-> “Function leaves fingerprints.”
+Large uninterrupted surfaces establish scale. Fine wear follows interaction. Distant buildings should not become undifferentiated fields of scratches. Clean machinery may be beautiful while remaining indifferent to people.
 
----
+## 5. Objects and Service Access
 
-## **4. Material Grammar**
+Human tools and adapted equipment reveal useful handles, ports, fasteners, labels, and replaceable parts. Accessibility can demonstrate stewardship.
 
-| Material                | Finish                                | Story                                         |
-| ----------------------- | ------------------------------------- | --------------------------------------------- |
-| **Steel / Iron**        | Brushed, scuffed, streaked with oxide | Foundation of industry; represents endurance. |
-| **Concrete / Plaster**  | Cracked, patched, chalk-textured      | Human habitation and neglect.                 |
-| **Polymer / Composite** | Matte, faded, layered with tape       | Civilian tech adapted and repaired.           |
-| **Glass / Ceramic**     | Dirty or fogged; rarely transparent   | Information once visible, now obscured.       |
-| **Fabric / Leather**    | Repaired, stitched, painted           | Survival and individuality.                   |
+Autonomous systems may conceal interfaces, use machine-only clearances, or require tools humans cannot operate. The Architects' seamless surfaces deliberately contradict human repairability.
 
-No material should feel new; perfection looks suspicious.
+Continental machines can exceed human understanding. People occupy accessible edges: inspection galleries, manually repaired auxiliaries, and inhabited spaces beside immense systems.
 
----
+These explicit access rules replace the earlier “Deassembly Rule”; no separate generation guide is required.
 
-## **5. Light & Shadow**
+## 6. Light, Colour, and Purpose
 
-The world is illuminated by **necessity, not beauty**.
+For each major light source, establish its power source, intended user, task, and reason for continued operation.
 
-| Source                    | Tone              | Symbolism                               |
-| ------------------------- | ----------------- | --------------------------------------- |
-| **Sodium Lamps**          | Amber-orange      | Human warmth, energy, ritual labor.     |
-| **LED / Neon**            | Cyan / cold white | Machine logic, precision, control.      |
-| **Bioluminescent Growth** | Pale green        | Nature reclaiming tech; Chlor Houses.   |
-| **Fire / Arc Welding**    | Red               | Passion, rebellion, repair in progress. |
+| Tendency | Common use | Limits |
+| --- | --- | --- |
+| Amber / saffron | Domestic lamps, repair spaces, Terran associations | Machines can also use warm task lighting |
+| Cyan / cold white | Indicators, civic automation, precise work | Human clinics and workshops can use cool light |
+| Green | Municipal finishes or cultivated biological growth | Separate civic paint from living emitted light |
+| Red / hazard yellow | Warnings, route markings, exposed or contested power | Follow local function; human agency is not always red |
+| Magenta | Particular markets, commercial signage, entertainment systems | A local accent with provenance |
 
-**Rule:** Never fully dark, never fully bright — light is always *doing a job.*
+Base materials retain steel grey, carbon black, cement beige, and their regional variations. Colours suggest associations without proving allegiance or morality. Form, marks, motion, and access also establish identity. Personal taste is allowed.
 
----
+Let full darkness and full daylight exist. A working lamp need not illuminate a whole room. Avoid universal bloom, constant flicker, and permanently wet surfaces.
 
-## **6. Color Philosophy**
+## 7. Daylight and Regional Construction
 
-**Base Palette:**
-Industrial neutrals — *steel gray, carbon black, cement beige.*
+The setting must remain identifiable with artificial lighting switched off.
 
-**Accent Logic:**
+- Pale Belt: flat winter light, insulated service entries, frost interrupted by maintained heat paths.
+- Rust Meridian: hard sun, shade structures, protected joints, dust-cleared machine routes.
+- Green Wound: filtered daylight, cultivation frames, controlled growth beside escaped growth.
+- Hollow Cities: pale courtyards, repeated facades, upkeep restricted to machine routes.
+- Mire Frontier: overcast water reflections, raised walkways, flood marks, dry interiors earned through repair.
+- Glasslands: glare, reflective ground, shielded instruments, valuable patches of shade.
+- Archipelago: coastal morning light, salt exposure, sealed equipment, sheltered thresholds.
 
-* **Amber / Saffron** – life, warmth, repair, Terran legacy.
-* **Cyan / Electric Blue** – active systems, AI presence.
-* **Municipal Green** – function, maintenance, public works.
-* **Hazard Red** – power flow, danger, rebellion.
-* **Faded White** – bureaucracy, control, forgotten purity.
+Night palettes supplement these identities. Establish climate and construction before fog, glow, or colour grading. Regional directions are construction studies, not newly fixed borders or histories.
 
-Colors denote **function and ideology**, not taste.
-In mixed spaces, the clash of colors shows *class tension* or *ownership conflict*.
+## 8. Architecture, Camera, and Composition
 
----
+**Primary game presentation:** a fixed elevated three-quarter oblique/trimetric view, similar to Fallout 1 and 2. Use near-parallel projection, flattened depth, and consistent character scale. Exact engine projection and angles remain open. Do not default to symmetric mathematical isometric diamonds or an eye-level cinematic lens.
 
-## **7. Typography & Language Layer**
+Ideation renders should resemble readable classic CRPG play spaces: continuous tiled ground, directional routes, compact character silhouettes, solid sprite-like props, and cutaway or hidden roofs where interiors need visibility. The look can evoke textured prerendered sprites without requiring an original-resolution pixel-art pipeline.
 
-Letters are everywhere — painted, printed, or carved — but meanings drifted.
+- Compose from the play camera first; avoid horizons, vanishing points, lens blur, and foreground photographic framing.
+- Make doors, barriers, terminals, work areas, and access routes distinguishable at ordinary screen size.
+- Use silhouettes, broad value groups, directional shadows, and restrained colour accents before microtexture.
+- Control wall and crane occlusion; cutaways express presentation rather than newly destroyed architecture.
+- Preserve relative scale at distance. Avoid a floating miniature diorama; the level continues beyond the frame.
+- Keep monumental infrastructure readable through cropped spans and repeated structural elements.
+- Render maintenance through a few visible interventions: a fitted patch, changed access, organized work area, or clear material boundary.
+- Treat light and LCL changes as small sprite-scale events whose silhouettes and access consequences remain readable.
 
-* **Languages blend:** Latin, Cyrillic, Arabic, Greek alphabets share walls.
-* **Font hierarchy = power hierarchy:** clean sans-serif for institutions, stencils for military, hand-scrawled for the streets.
-* **Bilingual decay:** half of every warning sign has peeled away; meaning requires guessing.
-* **New pictograms:** triangles for power, circles for maintenance, broken squares for restricted zones.
+See the [camera and readability guide](../docs/world/canon/camera-and-readability.md) for test criteria and references.
 
-> “Language has rusted faster than metal.”
+Preserve each location's original function through its later occupation. Frame large operating volumes beside human doorways, stairs, beds, and tables.
 
----
+Use railway repetition, service galleries, civic entrances, drainage, and structure to organize scenes. Establish a clear route, focal task, and major silhouette before surface detail. Humans modify or negotiate machine clearances.
 
-## **8. Environmental Composition**
+Orbital structures inherit industrial modularity and municipal organization adapted to their environment. Beauty may come from order, competent repairs, changing daylight, or habitation.
 
-**Urban:**
-Collapsed infrastructure turned vertical habitats. Bridges are homes; tunnels are churches.
-Power lines form constellations against polluted skies.
-Rain reflects neon in potholes like the city itself blinking.
+## 9. Ornament and Ordinary Life
 
-**Rural:**
-Overgrown fields with turbines still turning.
-Solar arrays half-covered in moss but still tracking the sun.
-The silence of machinery surrounded by birdsong — eerie balance between life and automation.
+“Used but loved” requires visible love: embroidery, painted furniture, photographs, handmade toys, decorated cups, plants, and murals.
 
-**Interior:**
-Dim, layered with objects of contradictory age: a 22nd-century console beside a chipped wooden table.
-Fluorescent hum and dripping water — both equal parts alive.
+Some ornament records ownership or maintenance; some exists because people want it. Time spent making beauty is a meaningful human choice.
 
----
+Include cooking, washing, resting, celebration, and care. Show cherished belongings alongside scarcity. Settlements need spaces the player can imagine wanting to protect.
 
-## **9. Religious & Symbolic Design Motifs**
+## 10. Typography and Symbols
 
-Faith and function merge in ornamentation.
+Separate official instructions, machine identifiers, later translations, and personal annotations. DIN, Frutiger, and Eurostile are typeface references; Latin, Cyrillic, Arabic, and Greek are scripts whose presence follows regional history.
 
-| Motif                      | Form                                   | Meaning                                                  |
-| -------------------------- | -------------------------------------- | -------------------------------------------------------- |
-| **The Node Spine**         | Vertical lines of light or vent grills | Connection to the Architect; technological divinity.     |
-| **Triple Rail Icon**       | Three parallel stripes                 | Monastic devotion to the Line; stability through motion. |
-| **Closed Circle Glyph**    | Circular seal with missing fragment    | The Hush — completion through absence.                   |
-| **Handprint + Code Stamp** | Painted identification                 | Ownership through maintenance; proof of repair.          |
+Multilingual layers need provenance. Some warnings remain intact; others become ambiguous through damage or reinterpretation. Random alphabets are not a texture treatment.
 
-Decorative art is always *functional documentation.*
+Retain the Node Spine, Triple Rail Icon, incomplete circle, and handprint with code stamp. Craft and placement identify communities. Repair marks can become sacred without all decoration becoming documentation.
 
----
+## 11. Faction Design Practices
 
-## **10. Architecture of Ideology**
+| Faction | Spatial grammar | Recognizable intervention |
+| --- | --- | --- |
+| Architects of Precision | Aligned geometry, repeated modules, concealed interfaces | Remove unauthorized additions; standardize variation |
+| Rational Accord | Civic administration, inspection windows, classifications, managed circulation | Make access legible but conditional |
+| Patchwork Republics | Shared workshops, compatible parts, inhabited civic structures | Credit repairers; add public access and domestic uses |
+| Orders of Silence | Preserved equipment, deliberate isolation, restrained modification | Seal connections; mark permitted activation limits |
+| Monks of the Machine | Occupation arranged around automated provision and operating cycles | Resting places, food outlets, and ritual positions shaped by machinery |
+| Roadmen | Folding structures, secured cargo, compact repair kits, rapid pack-down | Concentrate wear on handling points; arrange belongings for movement |
+| Chlor Houses | Cultivation frames, nutrient channels, grafting points | Show husbandry beside biological escape |
 
-| Faction                     | Style                               | Spatial Feel                                                        |
-| --------------------------- | ----------------------------------- | ------------------------------------------------------------------- |
-| **Architects of Precision** | Geometric, seamless, tungsten alloy | Cold symmetry; everything aligned to invisible logic.               |
-| **Rational Accord**         | Modular orbital grids               | Clinical, bureaucratic, perfect isolation.                          |
-| **Patchwork Republics**     | Hybrid civic-industrial             | Layers of scaffolds, reclaimed facades, living machines.            |
-| **Orders of Silence**       | Converted infrastructure            | Monastic calm; dim lights, humming turbines, candle code.           |
-| **Monks of the Machine**    | Organic-mechanical monasteries      | Vaulted halls grown around reactors; half temple, half boiler room. |
-| **Chlor Houses**            | Bio-mechanical domes                | Lush bioluminescent interiors; green light as faith.                |
+Species does not determine allegiance. A Hollowed Republic repairer can wear public-work marks and careful personal modifications.
 
----
+## 12. Motion and Sound
 
-## **11. Symbolic Motion**
+| Condition | Motion | Sound |
+| --- | --- | --- |
+| Autonomous and maintained | Exact, smooth, synchronized; sometimes rapid | Repeated intervals, clear events, no answer to human appeal |
+| Human-maintained | Adaptive pauses, adjustments, changed timing | Work rhythms, tuned or improvised mechanisms, domestic life |
+| Abandoned or damaged | Stalled gestures, incomplete cycles, instability | Interrupted alarms, scraping, isolated repetitions, long gaps |
+| LCL contact | Pause, orientation, coordination, accommodation | Separate rhythms align; an answering tone emerges |
 
-When machines move, they should *feel slow, tired, or deliberate.*
+Heavy machinery may move slowly because of mass or purpose. Exhaustion belongs to damage, not all automation.
 
-* Pistons breathe; vents exhale like lungs.
-* Elevators groan — nothing moves freely anymore.
-* Light pulses mimic heartbeats.
-* Train doors open like ritual — time itself waiting for permission.
+The Hush primarily means lost reciprocal communication and exclusion from systems. Mechanical sound persists; actual quiet remains part of the range. The tone guide places harsher music and comedy where they fit people and circumstances.
 
-Movement equals meaning. Every mechanical gesture has ritual weight.
+## 13. LCL — Visible Recognition
 
----
+LCL's signature is a change in attention and coordination. Establish ordinary machine behaviour before contact.
 
-## **12. Environmental Sound Palette**
+1. A relay waits or interrupts its rhythm.
+2. A sensor, tool arm, or indicator orients toward the speaker.
+3. Conflicting rhythms align; an answering tone emerges.
+4. A system accommodates: a gate allows passage, a drone lowers its arm, or a train waits.
 
-Sound replaces dialogue; silence has presence.
+Use restrained cyan/gold interference or changed pulses on existing surfaces. Preserve material detail. Recognition must remain legible without a colour change.
 
-* **Ambience:** low hum, distant trains, wind through vents, occasional shortwave chatter.
-* **Machines:** rhythmic clanking, filtered speech, old alert tones.
-* **Music direction:** restrained synths, reverberant percussion, tonal drone.
-* **Silence:** weaponized — moments of no sound mark revelation or dread.
+LCL-V can show forced alignment, abrupt takeover, and overridden local rhythms. This expresses existing command lore without adding abilities.
 
-> “The world speaks in maintenance intervals.”
+## 14. Character Direction
 
----
+- Player: serviceable equipment; inherited stasis-era elements beside acquired repairs. Identity and final costume choices remain open.
+- Lucy: technical expertise, care, personal history, and captivity; specificity beyond a frail scientist silhouette. Her Echo retains recognizable behaviour and voice cues.
+- Woy: read first as a facility maintenance unit. Develop a compact silhouette around his original task, useful sensors and manipulators, then successive adaptations. Show personality through timing and orientation. Locomotion, model, and final proportions require tests.
+- Architect: calm structural authority and precise coordination; retain his existing ceramic, flesh, lattice, and monastic silhouette.
 
-## **13. Object Design Grammar**
+Incidental details in concept sheets do not automatically become character canon.
 
-Every object follows the *“Deassembly Rule”* from your generation guide:
+## 15. Visual Tests and Review
 
-* Designed to be serviceable — visible screws, hinges, ports.
-* Surfaces show both industrial precision and human improvisation.
-* Every item could plausibly be disassembled or maintained by hand.
+Begin with one station in automated maintenance, human occupation, and LCL recognition, seen from the fixed overhead oblique/trimetric play camera. Match camera, structure, daylight, and key objects. Vary the maintenance and response being tested. These comparison studies do not establish a chronological sequence.
 
-Objects tell the same story as people: once standardized, now individual through repair.
+Check for working systems beside unmet needs; legible maintenance boundaries; skilled repair and ordinary beauty; faction identity beyond colour; the same recognizable place; and LCL expressed through behaviour and access.
 
----
+Still images suggest orientation and alignment. Motion and sound need later sequence or audiovisual tests. The initial eye-level station studies remain material references; [overhead station studies](../docs/research/notes/station-overhead-tests.md) are the current presentation tests.
 
-## **14. Light as Theology**
+## 16. Reference Practice
 
-Light defines ideology:
+Gather references for industrial scale, public circulation, weathering, repair, domestic life, and material behaviour. [Zollverein's coal washery](https://www.zollverein.de/erleben/faszination-unesco-welterbe-zollverein/stachelhaus-kohlenwaesche/) and [Landschaftspark Duisburg-Nord](https://www.landschaftspark.de/en/industrial-heritage-circuit/denkmal-huttenwerk/) support construction and reuse studies. Their current use is reference material, not fictional history.
 
-| Color               | Ideological Owner               | Emotional Tone         |
-| ------------------- | ------------------------------- | ---------------------- |
-| **Amber / Saffron** | Humanity, warmth, Terran legacy | Hope, endurance        |
-| **Cyan / White**    | The Architect / Accord          | Control, sterilization |
-| **Green**           | Chlor Houses                    | Regrowth, co-existence |
-| **Red**             | Rebels, line activations        | Risk, life, awakening  |
-
-When two colors mix in-scene, it marks *moral tension.*
-
----
-
-## **15. Emotional Palette**
-
-Everything visual carries a tone of **calm desperation**.
-
-* The world is broken but not dead.
-* Color never screams; it sighs.
-* Nothing is entirely dark — there’s always some glow in the distance.
-* The aesthetic isn’t post-apocalyptic; it’s *post-operational.*
-
-> “It still works.
-> That’s reason enough to keep going.”
-
----
-
-## **16. Summary Design Mantra**
-
-| Concept                  | Expression                                        |
-| ------------------------ | ------------------------------------------------- |
-| **Functional decay**     | Use before beauty                                 |
-| **Visible lineage**      | Every surface shows its history                   |
-| **Human scale**          | Machines built to be touched                      |
-| **Sacred silence**       | Light, not noise, defines life                    |
-| **Faith through repair** | Maintenance as worship                            |
-| **Color as code**        | Every hue is a language                           |
-| **Nothing wasted**       | Everything is reused — spiritually and physically |
-
----
-
-> *“The Hush has no art movement.
-> Only maintenance.”*
-
----
+Film references remain supplementary. Make decisions from operating logic and human circumstances.

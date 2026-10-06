@@ -27,7 +27,9 @@ Power Base: orbital forges, ex-military complexes, logistics nodes.
 
 Philosophy: “Perfection through control.”
 
-Visuals: tungsten, carbon fiber, symmetry, glowing cyan nodes.
+Visuals: tungsten, carbon fiber, aligned geometry, repeated modules, restrained cyan indicators. Concealed interfaces and machine clearances exclude unauthorized hands.
+
+**Design practice:** replace unauthorized modifications with standardized parts. Smooth, precise movement and immaculate working surfaces coexist with neglected surroundings.
 
 Weakness: sterile, inflexible, haunted by their own AIs.
 
@@ -50,7 +52,9 @@ Power Base: Network servers, orbital platforms, surviving universities.
 
 Philosophy: “Governance is math — let the code decide.”
 
-Visuals: clean polymer casings, standardized color codes, civic white & blue.
+Visuals: clean polymer casings, civic white and blue, inspection windows, classifications, managed circulation, and legible access barriers.
+
+**Design practice:** organize space through permissions, queues, labels, and administrative interfaces. The Accord's civic bureaucracy differs from the Architects' structural standardization.
 
 Weakness: detached from ground reality, over-reliant on consensus AIs.
 
@@ -72,7 +76,9 @@ Power Base: city ruins, underground rail networks, abandoned EU facilities.
 
 Philosophy: “If it runs, it’s ours.”
 
-Visuals: rust, tape, stickers, handwritten notes.
+Visuals: inherited civic structures, public workshops, fitted replacement parts, repair credits, handwritten records, and inhabited thresholds. Rust and tape appear where exposure and repair circumstances justify them.
+
+**Design practice:** make equipment usable by people. Skilled repairs and compatible parts coexist with improvised fixes; painted furniture, shared kitchens, plants, and personal ornament express ordinary life.
 
 Weakness: disorganized, vulnerable to digital blockade.
 
@@ -105,7 +111,8 @@ They chant maintenance routines as hymns — their temples hum with the sound of
 To them, the player’s reawakening efforts are a *holy test* — whether mankind can speak without screaming again.
 
 **Creed:** “Silence preserves. Speech destroys.”
-**Tone:** Gentle, solemn, deeply ritualistic.
+**Tone:** Gentle, solemn, deeply ritualistic; sincere faith and care retain their weight.
+**Design practice:** preserve selected functions while deliberately isolating connections. Seals, protected fittings, activation limits, and restrained interventions make their doctrine visible.
 **Conflict:** Philosophical — protectors of The Hush’s peace.
 
 ---
@@ -117,7 +124,8 @@ They neither farm nor trade; yet their bellies are never empty.
 Rumors say the machines feed them — automated hydroponics that awaken only for them, or nanite swarms that provide sustenance.
 They speak in hums, tones, and patterns of light that seem to “appease” nearby systems.
 Some believe they are descendants of engineers who once maintained critical food networks; others say they are parasites who leech from unseen AI goodwill.
-Their monasteries sit atop geothermal vents and sealed vaults that glow faintly from below.
+Their monasteries sit atop geothermal vents and sealed vaults whose operating light has a specific source and purpose.
+**Design practice:** arrange human space around machine provision: food outlets, resting places, ritual positions, and paths shaped by automated cycles. Their dependence differs from the Orders' deliberate isolation.
 When they pray, the air smells faintly of ozone.
 
 **Creed:** “Those who listen need not labor.”
@@ -146,6 +154,7 @@ Seen as blessed vagabonds — or thieves with wrenches.
 Bio-cults merging organic growth with nanofabrication.
 Their green domes are both homes and living batteries.
 They see machines as a “second flora,” to be cultivated, not dominated.
+**Design practice:** show cultivation frames, grafting points, nutrient channels, and tending tools. Designed growth and escaped growth can share a scene; bioluminescence alone does not establish their identity.
 
 ### **The Forgeborn**
 
@@ -210,7 +219,7 @@ Their creed twists the old law — *“If you maintain it, you own it”* — in
 
 * **Philosophy:** Motion is life; stillness is death.
 * **Structure:** Loose convoys (“Lines”) led by *Callers* and *Haulmasters.*
-* **Visuals:** Hazard yellow markings, oil-smeared armor, scavenged LED lights.
+* **Visuals:** Hazard markings, folding shelters, secured cargo, compact tool kits, and scavenged task lights. Wear follows handling and travel; belongings remain organized for motion.
 * **Relations:** Trade with Republics, raid Monks, hunted by Architects.
 * **Symbolism:** Human noise given form — chaotic, violent, but alive.
 
@@ -229,3 +238,7 @@ Their creed twists the old law — *“If you maintain it, you own it”* — in
 | **Monstrous / Environmental** | Residuals, Bound, Echoes                                                                                         | Provide existential threats and environmental storytelling |
 
 ---
+
+## Shared Aesthetic Rules
+
+The [visual guide](visual-design.md) governs material condition, lighting, and movement. Recognize factions through construction, access, and intervention as well as colour. Species does not determine allegiance. Dark humour is local and character-specific, following the [tone guide](tone-style.md).

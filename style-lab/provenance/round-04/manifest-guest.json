@@ -1,0 +1,31 @@
+{
+  "round": "round-04",
+  "tool": "built-in image_gen",
+  "id": "r04-03-guest",
+  "title": "Guest",
+  "parents": [
+    "r03-04-paper"
+  ],
+  "references": [
+    {
+      "path": "images/style-lab/round-03/r03-04-paper.png",
+      "role": "Painting, camera, visual comfort and technology; new composition"
+    }
+  ],
+  "prompt": "Use case: stylized-concept\nAsset type: LCL world-interest exploration round04, one landscape16:9 watercolor game environment called Guest.\nReference image1 PAPER: painting style, camera, visual comfort and purposeful technology ONLY. Create a NEW provision monastery room. Do NOT copy the station, freight trains or closed gate layout. The monastery is a human community inhabiting automated civic food infrastructure.\nScene: elevated overhead three-quarter oblique/trimetric nearparallel gameplay camera, grounded continuous interior floor extending beyond frame, wide no-horizon playable scene. Tall concrete piers and an upper service gallery in dark tones; several pale enamel and ceramic foodprovision modules along rear wall connected to a protected overhead nutrient pipe. Distinctive modular utility technology: recessed status lenses, replaceable ceramic couplers, robust cassette doors, a small folding servingtray on counterweighted arms, a sealed machine service lane behind modules. NO magicalmachinery or faces. Human corner includes a fitted timber communal bench/table, worn bowls and cups, neatly hung dryingcloth, small modest herbpot and a folded workapron. Local warm amber lamps, otherwise deepcharcoal and greyumber.\nSingle visual story: a small child receives one simple bowl from an OPEN servingtray of a foodmodule; an adult beside the neighboring CLOSED module holds an emptybowl and watches; a modest robed attendant stands fartherleft near sharedtable, while a fourth practical-robed maintenanceworker is at the sidecassette. Exactly four readable small people at consistent gameplay scale. This is an unexplained exception, not terror or oppression of the child. The open tray and closed neighboring hatch make the contrast visible without needing tiny text. Nobodykneels; tender uneasy quiet. No inscription claimswhychildserved—leave mystery open.\nStyle: Paper's granular dark watercolor washes and roomy ground, earthy muted pigments, broken painted edges, selectively clear machinery and silhouettes, moderatefunctionaltechdetail. Foodtechnology looks interesting and manufactured, pale enamel against concrete, warm workinglights human activity. No glossyCGI, no watercolour merelytextureoverlay; a complete handpainted illustration. No cinematic horizon/vanishingpoint/DOF, floatingdi oramaedge, medievalcastle/cross/occultsymbols, overt sci-fi neon, magicparticles, Falloutbranding/powerarmor, decorativeclutter, gore, UI, lettering, captions, watermark.",
+  "path": "images/style-lab/round-04/r04-03-guest.png",
+  "originalPath": "/Users/winstonhades/.codex/generated_images/01a1034f-468b-7f52-95d5-53e0f665b435/exec-6225f4cc-9f4b-4f13-826f-f522ffd20c55.png",
+  "dimensions": {
+    "width": 1672,
+    "height": 941
+  },
+  "observations": {
+    "style": "Broad Paper-like granular ground and piers; pale enamel modules clearly modeled, moderately detailed. Warmer lamp areas than original Paper, no station trains.",
+    "camera": "Elevated near-parallel overhead oblique continuous-floor setting. New hall with service gallery and four small people, one child.",
+    "technology": "Protected coupled supply pipe, modular serving bank with open hatch/folding tray, adjacent sealed doors, recessed amber indicators and open service cassette. Coupler functions not provable from still image.",
+    "culture": "Modest robes, shared timber table, bowls, cloth and plants suggest provision and care; extra plant/crockery details appear.",
+    "mystery": "Child reaches toward bowl on open serving tray. Neighboring bays are closed, but adult stands beside child rather than clearly at rejected hatch and holds an indistinct bowl. Registration status, adult refusal and reason for selective service are not visible facts; they remain the accompanying narrative hypothesis."
+  },
+  "storyQuestion": "Why would this machine recognise a new child?",
+  "canonStatus": "exploratory"
+}

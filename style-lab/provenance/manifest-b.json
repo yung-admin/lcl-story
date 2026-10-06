@@ -1,0 +1,78 @@
+{
+  "batch": "round-02",
+  "tool": "built-in image_gen",
+  "userDirection": "Explore watercolor more, but darker vibe.",
+  "feedbackEvidence": {
+    "parentImageId": "06-watercolour",
+    "verdict": "MIX",
+    "traitRatings": "none"
+  },
+  "variants": [
+    {
+      "id": "r02-04-bruised",
+      "title": "Bruised twilight",
+      "lineage": "Watercolour hybrid",
+      "style": "Detailed watercolour",
+      "lighting": "Violet dusk / warm lamps",
+      "goofiness": "Grounded",
+      "palette": "Aubergine / mauve / dusty rose / slate",
+      "texture": "Pigment pooling / papergrain",
+      "filter": "Watercolour wash",
+      "shapes": "Architectural with broken edges",
+      "detail": "High",
+      "atmosphere": "Bruised melancholy",
+      "drift": "Original scene framing, layout, three people, station anchors and closed gate preserved. Strong violet/mauve washes and pooling, but output retains finely rendered mechanics and hard edges more than requested; limited microdetail simplification.",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-a232-7b33-a2c0-d502568cd912/exec-1718b08b-03a9-4309-9246-27c99c17cc01.png",
+      "savedPath": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-04-bruised.png",
+      "prompt": "Use case: style-transfer.\nAsset type: LCL darker-watercolour exploration round02, image r02-04-bruised.\nInput images: IMAGE1 original rail station is exact composition reference; IMAGE2 previous watercolor station is medium lineage only, its brightness is not desired. Repaint image1's exact scene in visibly hand-painted watercolor, substantially moodier than image2. An aubergine, dusty mauve, slate and muted coral twilight, like bruised dusk. Translucent violet pigment pooling, broad uneven wet-in-wet washes, paper tooth, granulation, blooms and broken drybrush. Selective thin ink helps three small human silhouettes and station interaction objects; simplify repetitive industrial microdetail. A tiny warm workbench lamp sustains melancholy human warmth; dim existing wall lights and dispenser preserve legible wayfinding. Dark mood through expressive pigments and contrast, not simply black exposure. Keep pale dusty-rose light softly separating floors from machinery. Actual watercolor illustration, not 3D model with noise overlay.\nINVARIANTS: fixed elevated OVERHEAD three-quarter oblique/trimetric near-parallel projection, identical original wide framing and continuous station floor fills entire image. Gallery and stairs left; upperleft workbench with ONE repairer; lowerleft bench with ONE seated person, cushion, existing plant and tea table; central pier with relay and dispenser; ONE waiting protagonist at CLOSED transparent gate midright; freight rails, crane and containers right. Exactly three people in original positions. Same object locations, paths, gate closure, topology, camera and scale. Existing signs may be simplified to pictograms. No new objects.\nAvoid: cinematic lens, horizon, perspective recession, floating diorama, borders, UI, readable writing, watermark, new plants/people, photorealism, smooth CGI, purely black darkening. Landscape16:9.",
+      "parentReferences": [
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/moodboard/station-overhead-tests/station-b-human-occupation.png",
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/06-watercolour.png"
+      ]
+    },
+    {
+      "id": "r02-05-verdigris",
+      "title": "Verdigris civic night",
+      "lineage": "Fresh idea with botanical hint",
+      "style": "Detailed watercolour / botanical etching",
+      "lighting": "Green diffuse / amber practicals",
+      "goofiness": "Grounded",
+      "palette": "Dark sage / petrol / viridian / dirty bone",
+      "texture": "Granulated washes / etched leaves",
+      "filter": "Watercolour wash",
+      "shapes": "Architectural / subtle ornament",
+      "detail": "High",
+      "atmosphere": "Haunted civic operation",
+      "drift": "Original scene framing, layout, three people, station anchors and closed gate preserved. Botanical motifs added to existing pier surfaces; no new plants or monsters. Green washes visible but broad diffuse fog is subtle. Mechanical detail and rendered edges remain stronger than loose-watercolor request.",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-a232-7b33-a2c0-d502568cd912/exec-9637852a-c859-4fa8-a455-d77dc01310d7.png",
+      "savedPath": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-05-verdigris.png",
+      "prompt": "Use case: style-transfer.\nAsset type: LCL darker watercolor exploration round02, r02-05-verdigris.\nInput images: IMAGE1 original is composition reference ONLY; IMAGE2 previous watercolor is medium lineage, not its lightness or rendered surface detail.\nRepaint the ENTIRE composition from scratch as genuine loose traditional watercolor on visible rough paper. Broad dark-sage, viridian, petrol-green and dirty-bone washes; visibly uneven wet-in-wet green pigment blooms, tide marks and coarse paper granulation. Use flat translucent wash masses instead of modeled shiny 3D surfaces. Deliberately discard microdetail (individual floor tiles, fasteners, rails teeth, crane rivets) while retaining all gameplay object silhouettes. Broken drybrush and sparse dark ink contours on key edges. No polished CGI or embossed brush texture. Eerie green-gray diffuse mist makes maintained civic machines feel haunted; dim existing amber lamps are small human anchors. Subtle botanical etched curves on existing fixtures only, as if historical civic ornament shines through green oxidation, NOT actual plants growing. Not a forest, not horror monsters. Soft parchment floor highlights keep walkable spaces and people legible amid dark green machinery. Painterly melancholy through pigment and atmosphere, not black exposure.\nINVARIANTS: exact original fixed elevated OVERHEAD three-quarter oblique/trimetric near-parallel camera and wide framing; continuous station playfield fills image. Gallery/stairs left. ONE repairer at workbench upperleft. ONE seated person on bench, cushion, existing plant and tea table lowerleft. Central pier has relay and dispenser. ONE waiting protagonist beside CLOSED glass gate midright. Right side freight rails, overhead crane, containers. Exactly three people, all original positions. Preserve layout, path topology, mainobject proportions and station continuity. Rails remain straight, machinery maintained. No new objects/plants/people.\nAvoid: perspective cinematic lens/horizon, floating diorama, borders/UI/text/watermark, smooth modeled 3D, sharp microdetail everywhere, new vegetation, creatures, gratuitous rust. Landscape16:9.",
+      "parentReferences": [
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/moodboard/station-overhead-tests/station-b-human-occupation.png",
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/06-watercolour.png"
+      ]
+    },
+    {
+      "id": "r02-06-embers",
+      "title": "Soot and ember",
+      "lineage": "Fresh pigment direction",
+      "style": "Detailed watercolour",
+      "lighting": "Dim ambient / amber lamp pools",
+      "goofiness": "Grounded",
+      "palette": "Umber / blackened rust / oxblood / burnt sienna",
+      "texture": "Pigment blooms / soot drybrush",
+      "filter": "Watercolour wash",
+      "shapes": "Architectural with stained surfaces",
+      "detail": "High",
+      "atmosphere": "Melancholic warmth",
+      "drift": "Original scene framing, layout, three people, station anchors and closed gate preserved. No actual fire/new objects. Sienna/oxblood blooms and pools of amber warmth visible. Fine machinery detail retained and drybrush less pronounced than requested; not a fully loose painted redraw.",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-a232-7b33-a2c0-d502568cd912/exec-94ae7242-03ff-4d1b-bca3-cbe03dd74d80.png",
+      "savedPath": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-06-embers.png",
+      "prompt": "Use case: style-transfer.\nAsset type: LCL darker watercolor exploration round02, r02-06-embers.\nReference IMAGE1 locks station composition, IMAGE2 shows prior watercolour lineage. Draw a NEW watercolor illustration with this precise layout: a soot-dark civic rail station in deep umber, oxblood, blackened rust and burnt-sienna pigment. Dark muted ambient daylight and small existing amber practical lamps give restrained melancholy warmth. NO actual flame or fire. Every architectural surface painted in broad translucent staining washes; visible reddish pigment blooms, rough absorbent paper grain, black/brown drybrush streaks, broken selective ink outlines. We want watercolor marks, pooling edges and paper showing through across entire illustration, not 3D render covered by a texture. SIMPLIFY repetitive textures, rail bolts, tool counts and tile seams into suggestive strokes. Keep key people, gate, relay, dispenser and paths clear by controlled pale taupe negative spaces. Freight machines read as precise and functioning, even though palette is sooty. Workbench and domestic bench are dim amber pools of human care.\nLock fixed elevated OVERHEAD threequarter oblique/trimetric nearparallel projection, original framing, continuous floor extending beyond image edges. Keep leftgallery/stair; upperleft workbench and ONE repairer; lowerleft bench, ONE seated person, cushion, existing plant and tea table; centralpier withrelay+dispenser; ONE waiting protagonist beside CLOSED glassgate midright; right freight rails, suspendedcrane andcontainers. Exactlythreepeople at originalpositions. Keep paths, station topology, camera scale and sceneobjects. Same location and beat. No extras.\nAvoid: horizon/cinematic lens, converging perspective, floating diorama, UI/border/text/watermark, new people/plants/props, actualfire/sparks/smokeplumes, gore/monsters, polishedsmoothCGI, high microdetail. Landscape16:9.",
+      "parentReferences": [
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/moodboard/station-overhead-tests/station-b-human-occupation.png",
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/06-watercolour.png"
+      ]
+    }
+  ]
+}

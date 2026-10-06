@@ -42,3 +42,14 @@ next-env.d.ts
 
 *.log
 *.env
+
+# Portable handover: the managed Sites checkout is exported in /style-lab/.
+/sites/
+node_modules/
+.wrangler/
+.sites-runtime/
+.agents/
+.codex/
+.env*
+dist/
+.vinext/

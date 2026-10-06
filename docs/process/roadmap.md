@@ -1,3 +1,29 @@
+# LCL / The Hush — Current Aesthetic Work
+
+## 2026-10-06 Continuation
+
+- [x] Prepare a [portable project handover](handover.md), source snapshot and continuation instructions.
+- [ ] Review Fresh Grain and Ink + Rim before extending the clean rebuild; original Grain remains the preference anchor.
+- [ ] Refine broad rendering language from a clean master, then test a new environment and gameplay-scale characters once the style is convincing.
+- [x] Prepare Git transfer to the confirmed `yung-admin/lcl-story` repository, retaining the original history on `master`. See [Git transfer](git-transfer.md).
+- [ ] If required, arrange hosted Site access and review export separately. See [lab operations](style-lab-operations.md).
+
+## 2026-10-03 Priorities
+
+- [x] Apply the approved aesthetic assessment to current source documents.
+- [x] Establish an [active style guide](../world/canon/style-guide.md) and partial source index.
+- [x] Generate and review cinematic material studies for the three station conditions.
+- [x] Generate and review the same comparison from the Fallout 1/2-like overhead play camera.
+- [ ] Use the review to choose the next environment, faction, or character study.
+
+See [the current overhead test brief](../research/notes/station-overhead-tests.md). Final character models, origin alternatives, and regional geography remain open.
+
+---
+
+## Historical Logos Roadmap
+
+The following inherited plan is retained for reference. Its protagonist, galaxy regions, counts, and migration assumptions do not establish LCL canon or current completion status.
+
 # ✅ The Logos Project – Worldbuilding TODO Roadmap
 
 ## 🎯 End Goal

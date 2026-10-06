@@ -199,14 +199,15 @@ You didn’t just wake the world — you *woke its immune system.*
 
 ## **14. Resonance Aesthetic**
 
-Whenever LCL activates:
+LCL becomes recognizable through a change in machine attention and coordination. Establish the normal operating rhythm first; then let a relay wait, a sensor orient, separate rhythms align, and an answering tone emerge.
 
-* The world hums — audio filters soften, mechanical sounds align to pitch.
-* Surfaces shimmer with faint interference patterns (cyan/gold).
-* Voices echo harmonically, blending machine and human timbres.
-* Visual bloom syncs with pulse rhythm, implying *the world is listening.*
+* A gate makes room, a drone lowers its tool arm, or a train waits beyond its allotted interval.
+* Restrained cyan/gold interference or changed indicator pulses may reinforce contact on existing surfaces.
+* Material detail and construction remain visible; bloom and particles do not carry the effect alone.
+* Responses remain legible through posture, alignment, timing, and access without relying only on colour.
+* LCL-V uses abrupt takeover and forced alignment to express its existing command function.
 
-It’s the one time the world feels alive — breathing in tandem with you.
+These are treatments of the existing resonance abilities, not new powers. The world was already active; contact makes it attentive. Still images can suggest that change, while motion and sound need sequence tests. See the [visual guide](visual-design.md#13-lcl-visible-recognition).
 
 ---
 

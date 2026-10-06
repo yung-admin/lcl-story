@@ -1,0 +1,76 @@
+{
+  "round": "round-01",
+  "mode": "built-in image_gen",
+  "reference": "/Users/winstonhades/Documents/ChatGPT/lcl/images/moodboard/station-overhead-tests/station-b-human-occupation.png",
+  "scene": "Occupied municipal rail station; closed gate; fixed elevated near-parallel oblique/trimetric camera.",
+  "assets": [
+    {
+      "id": "01-archive",
+      "name": "Archive",
+      "features": {
+        "lighting": "Cool daylight + warm tasks",
+        "goofiness": "Grounded",
+        "palette": "Grey / umber / muted cyan",
+        "filter": "Subtle dither",
+        "texture": "Dense worn materials",
+        "edges": "Crisp modeled",
+        "medium": "Prerendered RPG"
+      },
+      "observations": "Layout and three character positions preserved. Textures remain dense and modern-detail-heavy; ordered dithering is subtle rather than strong low-resolution sprites.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/01-archive.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-a99244d2-12d0-43bd-8a4b-e78671c0ea2d.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 raster concept exploration for an RPG style-review gallery, no interface.\nInput image 1: edit target and exact composition reference. Restyle this entire same station image, preserving its camera, framing, continuous grounded playfield, architectural outline and every principal object and character placement.\nScene invariants: fixed elevated three-quarter overhead oblique/trimetric near-parallel projection, like the view structure of early Fallout RPGs, NOT a cinematic perspective and NOT a floating diorama. The left upper gallery and central-left stairs stay in their exact locations. Upper-left workbench with a seated repairer, lower-left worn bench with a seated person, embroidered cushion, small tea table and plant. Huge center concrete pier with dispenser and cyan relay. Waiting protagonist near the CLOSED mid-right transparent pedestrian gate. Freight rails, automated cranes and rectangular containers on the entire right. Keep exactly these three people, their positions and sizes. No new buildings, creatures or objects, no camera rotation, no crop shift, no added UI, text, logos or watermark. It must be recognizably the same scene through all styles. Small printed signs may become simple unreadable pictograms.\nPrimary request: transform ONLY the rendering and surface treatment into late-1990s prerendered sprite-like RPG graphics. Classic gritty matte concrete and precise worn metal. Pixel-aware low-resolution texture detail, visible ordered dither transitions and crisp small sprite silhouettes, restrained aliased edges, physically convincing but simplified shading. Avoid modern glossy ultra-HD rendering.\nLighting: clear cool overcast daylight plus small existing warm workbench lamps. Strong readable paths and grounded contact shadows.\nPalette: grey stone, umber wood, desaturated military olive, muted cyan tiny functional lights. Grounded seriousness, very low goofiness. No dramatic lens bloom or depth of field."
+    },
+    {
+      "id": "02-civic",
+      "name": "Civic",
+      "features": {
+        "lighting": "Diffuse morning",
+        "goofiness": "Mildly playful",
+        "palette": "Ivory / teal / terracotta",
+        "filter": "Soft painted planes",
+        "texture": "Chalky clean enamel",
+        "edges": "Soft architectural",
+        "medium": "Civic illustration"
+      },
+      "observations": "Exact station layout preserved; cream-and-teal surfaces and morning mood strongly differentiated. Render retains substantial modeled detail rather than becoming a fully flattened transit poster.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/02-civic.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-ed50939f-f49b-4a68-8fb8-eb644ae2ea50.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 raster concept exploration for an RPG style-review gallery, no interface.\nInput image 1: edit target and exact composition reference. Restyle this entire same station image, preserving its camera, framing, continuous grounded playfield, architectural outline and every principal object and character placement.\nScene invariants: fixed elevated three-quarter overhead oblique/trimetric near-parallel projection, like the view structure of early Fallout RPGs, NOT a cinematic perspective and NOT a floating diorama. The left upper gallery and central-left stairs stay in their exact locations. Upper-left workbench with a seated repairer, lower-left worn bench with a seated person, embroidered cushion, small tea table and plant. Huge center concrete pier with dispenser and cyan relay. Waiting protagonist near the CLOSED mid-right transparent pedestrian gate. Freight rails, automated cranes and rectangular containers on the entire right. Keep exactly these three people, their positions and sizes. No new buildings, creatures or objects, no camera rotation, no crop shift, no added UI, text, logos or watermark. It must be recognizably the same scene through all styles. Small printed signs may become simple unreadable pictograms.\nPrimary request: Reimagine this exact view as an optimistic civic-retrofuture architectural illustration. Keep all visible shapes and compositions, but paint concrete in warm pale cream, structural frames and machines in clean seafoam/teal enamel, rail edging in burnt terracotta, bench wood honey-golden. Skillfully maintained municipal technology, dignified public space with subtle vintage transit design proportions. Bold simplified material blocks and softly outlined architectural precision. Flatten realistic microtexture into pleasing chalky gouache and gently graded illustrated planes, almost a travel poster but without words or framing. Slight rounded machine corners and warm human silhouettes, mildly playful rather than goofy.\nLighting: bright diffuse morning, soft elongated contact shadows, no noir.\nPalette: warm ivory, seafoam, muted terracotta, ochre, tiny dark teal accents. Make palette visibly much lighter and more colorful than reference.\nConstraint: surface/style transformation only, exact station architecture and object locations remain."
+    },
+    {
+      "id": "03-ink",
+      "name": "Ink",
+      "features": {
+        "lighting": "Flat graphic",
+        "goofiness": "Severe",
+        "palette": "Ivory / charcoal / vermilion",
+        "filter": "Halftone + dry ink",
+        "texture": "Dense carved hatching",
+        "edges": "Bold contour",
+        "medium": "Woodcut / screenprint"
+      },
+      "observations": "Principal geometry, gate, camera and three figures preserved. Effective limited-ink treatment. Dense hatching can compete with path readability; small fixtures and signs stylized.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/03-ink.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-a0b37fd9-4465-4cab-9c7c-40176547b289.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 raster concept exploration for an RPG style-review gallery, no interface.\nInput image 1: edit target and exact composition reference. Restyle this entire same station image, preserving its camera, framing, continuous grounded playfield, architectural outline and every principal object and character placement.\nScene invariants: fixed elevated three-quarter overhead oblique/trimetric near-parallel projection, like the view structure of early Fallout RPGs, NOT a cinematic perspective and NOT a floating diorama. The left upper gallery and central-left stairs stay in their exact locations. Upper-left workbench with a seated repairer, lower-left worn bench with a seated person, embroidered cushion, small tea table and plant. Huge center concrete pier with dispenser and cyan relay. Waiting protagonist near the CLOSED mid-right transparent pedestrian gate. Freight rails, automated cranes and rectangular containers on the entire right. Keep exactly these three people, their positions and sizes. No new buildings, creatures or objects, no camera rotation, no crop shift, no added UI, text, logos or watermark. It must be recognizably the same scene through all styles. Small printed signs may become simple unreadable pictograms.\nPrimary request: transform the exact station into a radical graphic woodcut and screenprint illustration. This must be dramatically visually different: every surface resolved into bold flat INK SHAPES instead of smooth 3D realistic shading. Use precisely charcoal-black, warm ivory paper, and vermilion-red inks, with almost no other colors. Large carved sharp shadows, dry-brush crosshatching, subtle sparse halftone dots, irregular printed ink edges, crisp readable black silhouettes for the three small figures. Bold architectural contour lines. Concrete pier ivory with black hatching, freight machines black/ivory with red functional panels, floor pale paper with directional charcoal drain lines. Maintain exact underlying geometry, camera and object placements. The texture is tactile printed paper and carved ink strokes, not photographic grain.\nLighting: graphic flattened light, high contrast but clear playable walking area. Severe editorial illustration energy and serious mood, no goofy proportions.\nAvoid realistic multi-color materials, smooth shaded 3D, decorative border, title text or poster lettering."
+    },
+    {
+      "id": "04-nocturne",
+      "name": "Nocturne",
+      "features": {
+        "lighting": "Local amber night",
+        "goofiness": "Grounded",
+        "palette": "Midnight indigo / amber",
+        "filter": "Subtle painted grain",
+        "texture": "Wet reflections",
+        "edges": "Modeled sharp",
+        "medium": "Textured nocturne"
+      },
+      "observations": "Composition and characters preserved. Night palette/local amber reflections strongly distinct. More polished modeled rendering than loose painterly gouache; darker values reduce visibility at small display sizes.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/04-nocturne.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-bfe7c8ec-bf20-4a07-b537-21934cdd46d0.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 raster concept exploration for an RPG style-review gallery, no interface.\nInput image 1: edit target and exact composition reference. Restyle this entire same station image, preserving its camera, framing, continuous grounded playfield, architectural outline and every principal object and character placement.\nScene invariants: fixed elevated three-quarter overhead oblique/trimetric near-parallel projection, like the view structure of early Fallout RPGs, NOT a cinematic perspective and NOT a floating diorama. The left upper gallery and central-left stairs stay in their exact locations. Upper-left workbench with a seated repairer, lower-left worn bench with a seated person, embroidered cushion, small tea table and plant. Huge center concrete pier with dispenser and cyan relay. Waiting protagonist near the CLOSED mid-right transparent pedestrian gate. Freight rails, automated cranes and rectangular containers on the entire right. Keep exactly these three people, their positions and sizes. No new buildings, creatures or objects, no camera rotation, no crop shift, no added UI, text, logos or watermark. It must be recognizably the same scene through all styles. Small printed signs may become simple unreadable pictograms.\nPrimary request: Transform only rendering, lighting and surface color into a moody midnight industrial nocturne. Dramatically darker indigo/blue-black concrete architecture, painterly softened surface microdetail, tactile gouache-like brush textures, subtly grainy atmospheric color. Existing workbench lamp produces a tightly local amber pool in upper-left; existing pier fixtures amber; existing relay tiny cyan. Freight equipment displays restrained cyan signal edges, warm tiny warning fixtures. Wet-looking floor and rails reflect these local sources in short broken strokes, suggesting rainy night outside without adding rain drops, fog or anything that hides the playfield. Existing bench corner quietly warm, protagonist a clear dark silhouette against a small amber gate reflection. Keep paths readable and each person in exact location.\nPalette: deep midnight indigo, slate blues, muted warm amber, tiny desaturated cyan; no magenta or general neon bath.\nLighting: artificial practical night light, high contrast with dark ambient fill; painterly but architectural precision. Quiet grounded melancholy, low goofiness.\nNo cinematic haze, lens bloom, depth of field, camera change, architecture change or added objects."
+    }
+  ]
+}

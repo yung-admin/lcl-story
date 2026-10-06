@@ -28,6 +28,8 @@ The ground is white with chemical frost; frozen turbines turn against still wind
 * **Gameplay focus:** exploration, relic recovery, environmental storytelling through dormant tech.
 * **Landmark:** **Vault of Dissonance** — a cathedral-sized data bunker that still plays the world’s last transmission on loop.
 
+* **Construction and daylight direction:** Insulated entries, protected service galleries, and frost interrupted by maintained heat paths distinguish construction. Flat winter daylight reveals immaculate machine surfaces beside abandoned public spaces.
+
 ---
 
 ## **2. The Rust Meridian**
@@ -43,6 +45,8 @@ The air smells of ozone and rain that never comes.
 * **Tone:** kinetic, hostile, loud.
 * **Gameplay focus:** convoy combat, fuel scarcity, Line sabotage missions.
 * **Landmark:** **The Hollow Rail** — a suspended track stretching across a dead desert, maintained by a single Republic settlement clinging to its underside.
+
+* **Construction and daylight direction:** Shade structures, protected joints, sheltered workshops, and dust-cleared machine routes establish adaptation. Hard sunlight and long structural shadows remain legible without neon.
 
 ---
 
@@ -61,6 +65,8 @@ The air hums with photosynthetic power.
 * **Gameplay focus:** stealth, resource gathering, moral tension between regrowth and contamination.
 * **Landmark:** **Garden Node 04** — a reactor-greenhouse where the player can “heal” or “weaponize” the biome.
 
+* **Construction and daylight direction:** Cultivation frames, grafting points, nutrient channels, and tending tools show designed growth beside uncontrolled escape. Filtered daylight differentiates plant material from emitted biological light.
+
 ---
 
 ## **4. The Hollow Cities**
@@ -69,13 +75,15 @@ The air hums with photosynthetic power.
 
 Abandoned megacities once powered by The Architect’s automation.
 Now filled with Hollowed networks and residual drones.
-Every window glows faintly cyan — buildings still dreaming their routines.
+Selected maintenance routes and service windows glow with purposeful indicators; other floors can remain dark. Buildings continue their routines without lighting every human room.
 
 * **Dominant factions:** Architects of Precision, Hollowed enclaves.
 * **Visuals:** vertical corridors, cable webs, mirrored facades, smog haze.
 * **Tone:** isolation, control, sterile beauty.
 * **Gameplay focus:** infiltration, hacking, moral choices — reactivation risks awakening Architect fragments.
 * **Landmark:** **The Node Spine Tower** — an immense control spire pulsing with blue light, seat of an Architect shard that speaks to the player.
+
+* **Construction and daylight direction:** Repeated facades, pale courtyards, exact service clearances, and machine-only circulation reveal original design. Upkeep can stop sharply at neglected passenger or residential thresholds.
 
 ---
 
@@ -93,6 +101,8 @@ The Line passes above on concrete pylons, rust dripping into the water.
 * **Gameplay focus:** diplomacy, trade convoys, protection missions.
 * **Landmark:** **Bridge of Bones** — a derelict railway bridge turned settlement; its underside houses a market run by ex-Roadmen.
 
+* **Construction and daylight direction:** Raised walkways, flood marks, drainage repairs, replaceable lower panels, and sheltered domestic spaces show flood adaptation. Overcast reflections contrast with dry interiors maintained through care.
+
 ---
 
 ## **6. The Monastic Vaults**
@@ -101,13 +111,15 @@ The Line passes above on concrete pylons, rust dripping into the water.
 
 Massive underground sanctuaries maintained by the Orders of Silence.
 Here, turbines run like hymns — every rotation an act of worship.
-The Monks believe these Vaults hold the world’s equilibrium; shutting one down is considered heresy.
+The Orders believe these Vaults hold the world’s equilibrium; shutting one down is considered heresy.
 
 * **Dominant factions:** Orders of Silence, Hollowed pilgrims.
 * **Visuals:** warm orange light, chanting turbines, symmetrical corridors.
 * **Tone:** awe, claustrophobia, holiness through maintenance.
 * **Gameplay focus:** puzzles, moral choices, spiritual worldbuilding.
 * **Landmark:** **Vault 9 “Saint Rotor”** — a spinning machine-chapel powered by living Bound saints.
+
+* **Construction and daylight direction:** Preserved fittings, sealed connections, activation boundaries, and isolated control galleries express the Orders’ restraint. Monks of the Machine instead arrange occupation around provision outlets and operating cycles; distinguish the two practices.
 
 ---
 
@@ -126,6 +138,8 @@ Echoes wander the dunes, broadcasting fragments of ancient combat orders.
 * **Gameplay focus:** long-range travel, memory retrieval missions, survival.
 * **Landmark:** **The Choir Crater** — a collapsed satellite array where merged Echoes still sing to the sky.
 
+* **Construction and daylight direction:** Reflective ground, shielded instruments, glare protection, and carefully placed shade organize the scene. Protected equipment may remain precise amid ruined war infrastructure.
+
 ---
 
 ## **8. The Deep Lines**
@@ -141,6 +155,8 @@ Here, the player feels closest to The Architect’s residual network — a labyr
 * **Tone:** suspense, inevitability, machine spirituality.
 * **Gameplay focus:** traversal challenges, network reactivation, endgame exploration.
 * **Landmark:** **The Heartline Core** — deepest active Node; the final link to The Architect.
+
+* **Construction and daylight direction:** Vast operating clearances, repeated service bays, inspection galleries, and small accessible edges establish scale. Exact trains and serviced rails can cross abandoned or flooded passenger areas.
 
 ---
 
@@ -158,6 +174,8 @@ These stations are the last connection to orbit, transmitting silence skyward.
 * **Gameplay focus:** isolation, listening missions, final moral decisions.
 * **Landmark:** **Signal Platform Theta-1** — the last functioning uplink to orbital satellites; the final chapter of the player’s choice.
 
+* **Construction and daylight direction:** Sealed equipment, salt exposure, sheltered entries, and replaceable exterior fittings express coastal construction. Clear morning light and working beacons coexist with neglected human connections.
+
 ---
 
 ## **10. The Heartline**
@@ -168,6 +186,8 @@ A mythic terminus said to lie beneath the continent — the true core of The Arc
 Legends say it was built around a human brain: the original empathy seed of the network.
 If The Hush began anywhere, it began here.
 Reaching it is the player’s ultimate pilgrimage.
+
+* **Construction and daylight direction:** Nonhuman operating volumes surround small human inspection routes and thresholds. Structural coordination and access define the place before luminous effects; final form remains an exploration.
 
 ---
 
@@ -200,3 +220,6 @@ Reaching it is the player’s ultimate pilgrimage.
 > a turbine, a light, a prayer, or a person.”*
 
 ---
+## Aesthetic Continuity
+
+These construction studies supplement existing regions without fixing new borders or historical claims. Use the [visual direction](visual-design.md) and [tone guide](tone-style.md). Palettes are tendencies; daylight, maintenance condition, access, and human occupation establish regional identity.

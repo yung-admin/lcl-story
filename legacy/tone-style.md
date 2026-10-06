@@ -1,197 +1,121 @@
-
+---
+id: style-lcl-tone
+kind: style-guide
+canon-status: accepted
+updated: 2026-10-03
+scope: tone-and-aesthetic
 ---
 
-# 💀 TONE & STYLE *(Neon-Noir Revision)*
+# LCL / The Hush — Tone & Style
 
-> *“The world ended, but the jokes got darker.”*
+The world keeps running while people struggle to recover a place in it. Its tone ranges through unease, dark humour, grief, care, and practical hope. [European infrastructure and selective maintenance](visual-design.md) provide the visual foundation; neon-noir is one local expression.
 
----
+This revision implements the decisions approved on 2026-10-03. The [previous neon-noir revision](../_archive/aesthetics-2026-10-03/legacy/tone-style.md) remains archived. The [active style guide](../docs/world/canon/style-guide.md) supplies shared rules.
 
-## **1. Core Tone**
+## 1. Emotional Foundation
 
-The Hush is a **neon-lit corpse of civilization** kept alive by sarcasm and duct tape.
-It’s brutal, hilarious, and human — a world where people fix machinery with one hand and flip it off with the other.
+- Function continues without reliable human recognition.
+- Repair can express care, necessity, exploitation, or control.
+- Humour helps people live with exhaustion and absurdity.
+- Kindness can be awkward, direct, habitual, or costly; give it space.
+- Restoring connection is hopeful and dangerous at the same time.
 
-* **Tone blend:** cyber-decay noir + violent dark comedy + existential blues.
-* **Mood:** grim but playful; stylish filth.
-* **Energy:** everyone’s half saint, half bastard — surviving by punchline.
-* **Rule:** if something breaks, make a joke before fixing it.
+Quiet exploration, ordinary life, and sudden mechanical precision coexist with disorder and violence. The world has more than one emotional frequency.
 
-> “Hope died decades ago. Humor’s just its ghost doing stand-up.”
+## 2. Silence and Noise
 
----
+The Hush primarily describes lost reciprocal communication: people speak and systems fail to answer. It does not require all machines to stop or the continent to be acoustically silent.
 
-## **2. Emotional Frequency**
+An occupied settlement may be loud. An immaculate depot may hum continuously and still feel abandoned. Actual quiet belongs to particular places, rituals, and moments.
 
-The world still runs on silence and rust, but people cope with **laughter, profanity, and improvised violence**.
-It’s not hopeless — it’s *hilariously futile.*
+LCL changes that relationship. Something notices, waits, answers, or makes room. Establish the unanswered baseline before contact.
 
-| Axis                        | Range                                    | Example                                              |
-| --------------------------- | ---------------------------------------- | ---------------------------------------------------- |
-| **Tragedy ↔ Comedy**        | Misery punctuated by absurd survival     | Roadmen arguing theology while stealing fuel.        |
-| **Stillness ↔ Chaos**       | Long, quiet walks → sudden ultraviolence | One bad switch turns prayer hall into fireworks.     |
-| **Faith ↔ Cynicism**        | People worship turbines — and mock them  | “Saint Rotor spins again, you metal son of a bitch!” |
-| **Cold Logic ↔ Human Mess** | Machines obey physics, people don’t      | Monks duel with welding torches over doctrine.       |
+## 3. Character Voice
 
----
+Occupation, belief, circumstances, and personality shape speech. Avoid giving the whole cast the same cynical rhythm.
 
-## **3. Writing Voice**
+| Voice tendency | Suitable expression | Necessary range |
+| --- | --- | --- |
+| Mechanics and traders | Shorthand, arguments, dry observations | Pride, affection, concentration |
+| Roadmen | Swagger, superstition, gallows humour, bargaining | Loyalty, fear, weariness, restraint |
+| Orders of Silence | Deliberate speech, boundaries, ritual language | Sincere care and internal disagreement |
+| Monks of the Machine | Attention to rhythms, provision, timing | Dependency, serenity, doubt |
+| Accord | Procedures, classifications, civic reassurance | Institutional blind spots, personal difference |
+| Architects | Exactness, certainty, controlled delivery | Conviction expressed through restraint |
+| Woy | Broken assumptions, literal observations, timing | Curiosity, attachment, fear of erasure |
 
-Snappy, bleak, funny.
-Characters talk like they’ve seen too much but still can’t shut up.
+These are tendencies, not compulsory dialogue formulas. Emotional purpose determines how much wit a scene needs.
 
-* Sentences are short, cynical, alive.
-* Profanity is punctuation — rhythm, not shock.
-* Philosophy slips between the jokes like grease through gears.
+## 4. Humour
 
-**Examples:**
+Retain dark comedy, profanity, practical absurdity, and collisions of faith with machinery. Roadmen debating doctrine while stealing fuel remains a useful example.
 
-* “Silence saved the world. Now it’s just boring as hell.”
-* “We fixed God. Turns out he runs on diesel.”
-* “You pray, I patch. One of us is doing something useful.”
+Humour grows from tasks and relationships. An elaborate repair ritual may serve a real purpose; a bureaucratic response may be absurd without its speaker knowing it.
 
----
+Let jokes fail, go unanswered, or expose anxiety. Avoid a punchline in every exchange. Grief, sincere faith, and quiet affection retain their weight.
 
-## **4. Visual Style**
+## 5. Violence
 
-**Neon Noir by way of municipal decay.**
+Violence is costly and consequential, following the [gameplay direction](gamemechanics.md). Improvised tools and unreliable equipment can create grim absurdity, especially around Roadmen.
 
-| Element         | Direction                                                                                            |
-| --------------- | ---------------------------------------------------------------------------------------------------- |
-| **Lighting**    | Overexposed signs, sodium haze, flickering fluorescents.                                             |
-| **Color**       | Cyan, magenta, saffron — wet concrete reflecting all three.                                          |
-| **Texture**     | Oil, rain, and blood sharing the same shine.                                                         |
-| **Camera Mood** | Dirty lenses, close frames, claustrophobic alleys.                                                   |
-| **References**  | *Blade Runner (used-universe)*, *Children of Men*, *District 9*, *Snatch* energy in dialogue pacing. |
+Local bursts of violent comedy do not determine every death or the overall treatment of suffering. Consequences and exhausted aftermath need room.
 
-The look is cinematic grime — every frame should smell like burnt circuitry and cheap liquor.
+## 6. Visual Range
 
----
+Municipal and industrial construction anchors every region. Places differ through original purpose, climate, maintenance remit, and inhabitants.
 
-## **5. Sound & Music**
+The primary presentation is a fixed elevated oblique/trimetric CRPG view in the spirit of Fallout 1 and 2. Mood must survive compact sprite-like silhouettes and parallel projection. Ideation defaults to a readable play-space slice rather than an eye-level film still. Cinematic references supply material or tonal cues, not the primary camera. See the [camera guide](../docs/world/canon/camera-and-readability.md).
 
-The soundtrack punches like a migraine under strobe lights.
+| Setting | Visual and emotional emphasis |
+| --- | --- |
+| Automated depot | Clean operating surfaces beside ignored passenger needs; exact movement and unanswered interfaces |
+| Republic workshop or home | Skilled repair, shared work, cooking, ornament, disagreements and care |
+| Null Market | Dense occupation, salvaged commercial signs, local neon and dark humour |
+| Roadmen convoy | Folding structures, secured cargo, compact equipment, restless movement |
+| Monastic space | Deliberate isolation or dependence; machinery shaping ritual and meaningful pauses |
+| Abandoned infrastructure | Failed access, incomplete routines, weathering and quiet specific to the place |
 
-* **Sound palette:** feedback buzz, malfunction alarms, half-working synths, heartbeat basslines.
-* **Music style:** dark wave, dirty electro, industrial jazz — broken but stylish.
-* **Dialogue mixing:** background noise often bleeds over; conversations happen mid-grind of machines.
-* **Silence:** still used for impact — when the noise stops, someone’s about to die or confess.
+Rain, grime, fog, and neon each need a local cause. Daylight, dry surfaces, clean equipment, and ordinary beauty are equally available.
 
-> “Silence used to be sacred. Now it’s suspicious.”
+## 7. Colour and Lighting
 
----
+Retain amber/saffron, cyan/white, industrial neutrals, civic green, and biological green. Follow the [functional colour rules](visual-design.md#6-light-colour-and-purpose).
 
-## **6. Character Tone**
+Magenta belongs to particular commercial, entertainment, or market sources. Colour suggests histories without determining moral worth.
 
-People in *The Hush* don’t philosophize politely — they **rant**, **snarl**, and **laugh mid-bleed.**
+A light's purpose matters: an empty platform can be brilliantly lit while a nearby household works by a salvaged lamp.
 
-* Everyone’s tired, but everyone still hustles.
-* Kindness is rare and uncomfortable; humor is armor.
-* Even faith has attitude: Monks curse their machines, Roadmen toast their engines.
+## 8. Sound and Music
 
-**Dialogue rhythm:**
+Ambience follows operation, weather, human activity, and maintenance condition. Distinguish precise repetition, repaired irregularity, damaged interruption, and actual quiet.
 
-1. Set-up like a prayer.
-2. Punchline like a gunshot.
-3. Walk away before anyone replies.
+- Restrained synths, mechanical intervals, and tonal drones support exploration and machine spaces.
+- Dark wave, dirty electro, and industrial jazz can belong to markets, convoys, local music sources, or concentrated action.
+- Settlements include cooking, footsteps, tools, conversation, and ordinary care.
+- LCL creates audible attention: rhythms align, a cycle waits, an answering tone becomes clear.
 
-**Sample exchange:**
+Avoid filling every scene with pounding music or alarms. Preserve listening and intelligible dialogue.
 
-> **Mechanic:** “It’s not broken, it’s just resting in violence.”
-> **Player:** “So are we.”
+## 9. Pacing
 
----
+Vary exploration, work, conversation, recognition, and confrontation. Quiet can permit trust, concentration, or discovery without inevitably preceding violence.
 
-## **7. Humor Style**
+An exact machine movement can interrupt a scene as strongly as an explosion. A small accommodation can carry more emotional weight than a large light show.
 
-Unexpected, grim, and situational — the laughter that erupts when life refuses to cooperate.
+## 10. Reference Use
 
-* **Physical:** slapstick through machinery (exploding coolant valves, headbutting drones).
-* **Verbal:** dry, deadpan, cruelly clever.
-* **Contextual:** contradictions of faith and function.
-* **Timing:** long build-ups, then short brutal payoffs.
+Earlier references to Blade Runner, Children of Men, District 9, and Snatch remain useful for particular qualities: material history, lived circumstances, improvised life, or dialogue timing. They do not impose a universal palette, camera treatment, or voice.
 
-It’s humor born of exhaustion — people laugh because crying wastes water.
-
----
-
-## **8. Violence as Punctuation**
-
-Violence is quick, messy, and often funny in its absurdity.
-
-* Guns misfire. Tools explode. Deaths are inconvenient, not heroic.
-* Combat encounters mix panic and improvisation: fighting with welding torches, shovels, loose cables.
-* Kill-lines double as punchlines — witty, fatalistic, bitterly proud.
-
-> “Congratulations. You survived the apocalypse. Now duck.”
-
----
-
-## **9. Dialogue Delivery**
-
-* Characters swear in *purpose*, not excess.
-* Delivery has rhythm — every conversation is half-argument, half-therapy session.
-* Even the player’s choices can have sarcastic flavor: “Sure, let’s resurrect the internet. What could go wrong?”
-
-**Tone guide for actors:**
-
-> “Half prophet, half drunk electrician.”
-
----
-
-## **10. Visual Metaphors**
-
-The same symbols remain — they just **shine harder and bleed brighter.**
-
-| Symbol                  | Expression                                                    |
-| ----------------------- | ------------------------------------------------------------- |
-| **Neon Light**          | Memory of civilization — humanity trying to imitate daylight. |
-| **Rust**                | Time’s graffiti; proof of life’s bad maintenance.             |
-| **Rain**                | Cleansing that never quite finishes the job.                  |
-| **Trains**              | The last organized thing left.                                |
-| **Graffiti & Stickers** | The new scripture — saints and swear words in equal measure.  |
-
----
-
-## **11. Pacing & Scene Energy**
-
-Slow, quiet build-ups interrupted by bursts of energy and grim laughter.
-
-* Long exploration → sudden chaos → exhausted aftermath.
-* Momentum mirrors conversation: calm, absurd, violent, regretful.
-* You’re never safe; you’re just between breakdowns.
-
----
-
-## **12. Genre Description**
-
-**Continental Futurepunk Noir Comedy** —
-a violent, profane, hopeful elegy for a world that won’t stop breaking.
-
-| Layer              | Description                                           |
-| ------------------ | ----------------------------------------------------- |
-| **Aesthetic**      | Neon-stained realism, rain on steel, brutalist ruins. |
-| **Tone**           | Sarcastic fatalism, human mess, sacred profanity.     |
-| **Energy**         | European cyber-grit meets absurdist humor.            |
-| **Moral Backbone** | Hope through irreverence; repair through spite.       |
-
----
-
-## **13. Guiding Quote for Writers & Artists**
-
-> “If it isn’t broken, it’s suspicious.
-> If it works, swear at it to make sure it’s listening.”
-
----
-
-## **14. Creative Keywords**
-
-`neon-noir`, `darkly comic`, `violent wit`, `industrial grime`,
-`existential sarcasm`, `saintly profanity`, `mechanical noir`,
-`hope through mockery`, `tired brilliance`, `holy repair`
-
----
-
-> *“Everyone’s a philosopher after three drinks and a welding torch.”*
-
----
+Pair film references with actual infrastructure, competent repairs, domestic life, and industrial reuse. The visual guide contains source links.
+
+## 11. Scene Review
+
+- What functions, and who does it serve?
+- What have people changed to make life possible or enjoyable?
+- Does this scene need humour, sincerity, unease, or a mixture?
+- Is each character's behaviour particular to them?
+- Is maintenance condition audible and visible?
+- What specifically notices or answers when LCL is used?
+- Is there something human worth caring about?
+
+Keep darkness, wit, and industrial grit. Their intensity follows the people and place.

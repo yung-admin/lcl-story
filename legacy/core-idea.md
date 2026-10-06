@@ -62,10 +62,10 @@ So the wasteland’s value system flips—**understanding** replaces **possessio
 
 | Element               | Look & Feel                                                                                                    |
 | --------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Landscape**         | Endless machinery half-buried in dust. Server spires jutting from hills like fossils.                          |
-| **Lighting**          | Neon beacons cutting through natural haze; functional light without human design.                              |
+| **Landscape** | Working machine corridors beside neglected public space; exposed service towers and inhabited industrial edges. |
+| **Lighting** | Purposeful task lights and signals, regional daylight, local neon with a surviving operator or routine. |
 | **Settlement Design** | Scrap cities built inside maintenance hangars, old maglev tunnels, cooling towers turned vertical towns.       |
-| **Color Logic**       | AI world = cyan, white, sterile; human enclaves = saffron, copper, warm neutrals (the “fire under ice” motif). |
+| **Color Logic** | Cyan/white and saffron/copper are recurring associations. Function, personal taste, and regional history permit exceptions. |
 
 ---
 
@@ -101,3 +101,7 @@ That sentence can be the tonal anchor for this version of the setting:
 a luminous, mechanical wasteland where light still shines, but no one is home.
 
 ---
+
+## Visual Implementation — Accepted 2026-10-03
+
+See the [visual direction](visual-design.md) and [active style guide](../docs/world/canon/style-guide.md). The essential contrast is selective care: systems may be immaculate where they maintain themselves while human needs remain unmet. Human occupation shows skill, comfort, and ornament alongside scarcity. Maintenance conditions coexist; restoring access need not erase weathering or personal history.

@@ -7,6 +7,10 @@
 
 ---
 
+## Presentation Direction — Accepted 2026-10-03
+
+The game uses a fixed elevated three-quarter oblique/trimetric presentation similar to Fallout 1 and 2. Near-parallel projection, consistent actor scale, legible routes, and compact sprite-like environmental objects govern art ideation. Exact camera angles, engine, grid, rendering pipeline, and combat timing are separate implementation decisions. This clarification does not change the mechanics below. See the [camera and readability guide](../docs/world/canon/camera-and-readability.md).
+
 ## **1. Core Loop — “Repair, Reactivate, Resonate”**
 
 The game is built around the **maintenance of a broken world**, not domination of it.

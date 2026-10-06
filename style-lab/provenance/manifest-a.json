@@ -1,0 +1,73 @@
+{
+  "round": "round-02",
+  "mode": "built-in image_gen",
+  "direction": "User requests darker watercolor exploration; prior06-watercolour marked MIX with no trait ratings.",
+  "references": [
+    "/Users/winstonhades/Documents/ChatGPT/lcl/images/moodboard/station-overhead-tests/station-b-human-occupation.png",
+    "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-01/06-watercolour.png"
+  ],
+  "assets": [
+    {
+      "id": "r02-01-rain",
+      "name": "Rain",
+      "parents": [
+        "06-watercolour"
+      ],
+      "features": {
+        "lighting": "Rainy overcast",
+        "goofiness": "Grounded",
+        "palette": "Slate / Paynes gray",
+        "filter": "Pooled watercolor washes",
+        "texture": "Wet pigment blooms",
+        "edges": "Precise + diffuse",
+        "medium": "Watercolor refinement"
+      },
+      "observations": "Fixed scene/camera/gate/three people preserved. Cold wet washes and dark-blue-gray mood visible; warm practical light retained. Fine mechanical modeling persists, so this is a detailed watercolor treatment rather than the loose simplified illustration requested.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-01-rain.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-742fe270-1af7-46de-b772-ddee6de88239.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 landscape concept-art image for an RPG style exploration.\nInput image 1 is the exact composition and topology reference. Input image 2 is a parent watercolor experiment, useful for the medium only, NOT its bright colors. We want substantially more authentic painterly watercolor than image 2.\nPrimary request: Completely repaint image 1 by hand in REAL TRANSLUCENT WATERCOLOR on cold-pressed paper. Not a filter laid over a 3D render. Reduce microdetail by at least half and replace smooth modeled surfaces with pigment blooms, staining puddles, wet-on-wet diffuse edges, granulation, selective drybrush and sparse ink architectural contours. Visible paper tooth through the washes. Large planes of exposed but dimly tinted paper can indicate traversable ground. Small people clear silhouettes. Preserve the entire scene camera, framing, underlying architecture, main objects and exact locations.\nFixed invariants: Elevated overhead three-quarter oblique/trimetric near-parallel projection, consistent character scale, continuous grounded station playfield. No horizon, no camera lens perspective, no floating diorama, no depth-of-field. Left upper gallery and center-left stair; upper-left workbench and repairer; lower-left seated person on bench with patterned cushion and tiny tea/plant table; huge center pier with dispenser and relay; protagonist immediately before CLOSED mid-right gate; freight rails/cranes/containers right. Exactly THREE people in the same poses and positions. Keep all rails, pillar outlines and main objects recognizable, simplify tiny bolts and industrial texture into painted marks. Do not add objects, creatures, people or scenery. No text/UI/watermark, tiny signs become original pictograms. Darker mood with legible walking paths and figures, no gratuitous horror.\nVariant: RAIN / cold slate watercolor refinement.\nPalette: Paynes gray, slate blue, muted cold blue-gray, desaturated olive-black, dirty gray paper, very small subdued warm ochre at existing workbench lamp and existing fixtures.\nLighting and mood: rainy overcast late-day daylight, oppressive quiet civic space. Low ambient grey light, wet concrete suggested by diffuse pooled watercolor stains and a few broken pale gray reflections, no bright sun. Darker and far less pastel than reference2. Ink outlines sparse and delicate, pigment granulation and feathered wet-on-wet blooms dominate. White paper appears only as soft grey-tinted highlights, not a bright white overall backdrop. Broad dark washes on freight equipment and architecture, gently lighter walking ground."
+    },
+    {
+      "id": "r02-02-midnight",
+      "name": "Midnight",
+      "parents": [
+        "06-watercolour",
+        "04-nocturne"
+      ],
+      "features": {
+        "lighting": "Amber practical night",
+        "goofiness": "Grounded",
+        "palette": "Indigo / ochre amber",
+        "filter": "Layered pigment washes",
+        "texture": "Paperlike pooled stains",
+        "edges": "Crisp silhouettes",
+        "medium": "Night watercolor refinement"
+      },
+      "observations": "Scene/camera/gate/three people preserved. Indigo architecture with strong existing amber light pools reads darker than round01 watercolor. Watercolor blooms visible across floor/pillars, but detailed modeled machines persist; medium shift remains restrained despite explicit simplification instructions.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-02-midnight.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-ab389f2e-9888-4bdc-8c1c-8a589e06dc1e.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 landscape concept-art image for an RPG style exploration.\nInput image 1 is the exact composition and topology reference. Input image 2 is a parent watercolor experiment, useful for the medium only, NOT its bright colors. We want substantially more authentic painterly watercolor than image 2.\nPrimary request: Completely repaint image 1 by hand in REAL TRANSLUCENT WATERCOLOR on cold-pressed paper. Not a filter laid over a 3D render. Reduce microdetail by at least half and replace smooth modeled surfaces with pigment blooms, staining puddles, wet-on-wet diffuse edges, granulation, selective drybrush and sparse ink architectural contours. Visible paper tooth through the washes. Large planes of exposed but dimly tinted paper can indicate traversable ground. Small people clear silhouettes. Preserve the entire scene camera, framing, underlying architecture, main objects and exact locations.\nFixed invariants: Elevated overhead three-quarter oblique/trimetric near-parallel projection, consistent character scale, continuous grounded station playfield. No horizon, no camera lens perspective, no floating diorama, no depth-of-field. Left upper gallery and center-left stair; upper-left workbench and repairer; lower-left seated person on bench with patterned cushion and tiny tea/plant table; huge center pier with dispenser and relay; protagonist immediately before CLOSED mid-right gate; freight rails/cranes/containers right. Exactly THREE people in the same poses and positions. Keep all rails, pillar outlines and main objects recognizable, simplify tiny bolts and industrial texture into painted marks. Do not add objects, creatures, people or scenery. No text/UI/watermark, tiny signs become original pictograms. Darker mood with legible walking paths and figures, no gratuitous horror.\nVariant: MIDNIGHT / dark watercolor with practical light.\nCRITICAL MEDIUM: painted watercolor ILLUSTRATION, not a realistic game screenshot with watercolor floor. Omit most rail bolts, pipes, container ridges and small textures, replacing each industrial mass with loose translucent indigo pigment planes, irregular feathery stain edges and a few precise ink strokes. A human illustrator's economical marks, evident throughout people, machinery, pillar and floor equally. Broad grainy watercolor blooms with opaque-looking darkness from layered transparent pigment. Preserve the key outlines and positions without meticulously drawing every original tiny detail.\nPalette: deep indigo, blue-black, neutral violet shadow pigment, warm dirty-ochre amber light, tiny muted cyan relay. Truly nighttime, sombre and lonely. Existing workbench and pier lamps create small amber painted pools; nothing new. Negative painting with muted blue-paper ground makes pathways readable between dark equipment masses. Leave dark silhouettes of all three people distinct. No uniform neon bath, bloom or dramatic haze. No smooth glossy 3D shading. No pastel cream brightness.\nMood: dignified lonely civic night, practical automated machinery still operating."
+    },
+    {
+      "id": "r02-03-soot",
+      "name": "Soot",
+      "parents": [
+        "06-watercolour",
+        "03-ink"
+      ],
+      "features": {
+        "lighting": "Muted warm low light",
+        "goofiness": "Grounded",
+        "palette": "Charcoal / sepia / dirty ivory",
+        "filter": "Ink + ragged wash",
+        "texture": "Blotchy stained pigment",
+        "edges": "Dark ink contours",
+        "medium": "Watercolor / ink hybrid"
+      },
+      "observations": "Principal objects and exact scene/camera/three people preserved. Sepia-charcoal palette and ragged wash stains appear; still includes olive/rust/teal traces and mechanical microdetail. Less loose, less monochrome, and less watercolor-dominant than requested. Label accurately as detailed ink-and-wash hybrid.",
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-03-soot.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-f421aed3-e538-4a53-ae03-19eb4965a200.png",
+      "prompt": "Use case: style-transfer\nAsset type: 16:9 landscape concept-art image for an RPG style exploration.\nInput image 1 is the exact composition and topology reference. Input image 2 is a parent watercolor experiment, useful for the medium only, NOT its bright colors. We want substantially more authentic painterly watercolor than image 2.\nPrimary request: Completely repaint image 1 by hand in REAL TRANSLUCENT WATERCOLOR on cold-pressed paper. Not a filter laid over a 3D render. Reduce microdetail by at least half and replace smooth modeled surfaces with pigment blooms, staining puddles, wet-on-wet diffuse edges, granulation, selective drybrush and sparse ink architectural contours. Visible paper tooth through the washes. Large planes of exposed but dimly tinted paper can indicate traversable ground. Small people clear silhouettes. Preserve the entire scene camera, framing, underlying architecture, main objects and exact locations.\nFixed invariants: Elevated overhead three-quarter oblique/trimetric near-parallel projection, consistent character scale, continuous grounded station playfield. No horizon, no camera lens perspective, no floating diorama, no depth-of-field. Left upper gallery and center-left stair; upper-left workbench and repairer; lower-left seated person on bench with patterned cushion and tiny tea/plant table; huge center pier with dispenser and relay; protagonist immediately before CLOSED mid-right gate; freight rails/cranes/containers right. Exactly THREE people in the same poses and positions. Keep all rails, pillar outlines and main objects recognizable, simplify tiny bolts and industrial texture into painted marks. Do not add objects, creatures, people or scenery. No text/UI/watermark, tiny signs become original pictograms. Darker mood with legible walking paths and figures, no gratuitous horror.\nVariant: SOOT / dark ink-and-watercolor graphic novel hybrid, WATERCOLOR DOMINANT.\nImagine an expressive concept painter documenting this station with a big wet mop brush and a dip pen. DRAW from the references, do not preserve source image pixels or source rendering technique. Do not trace microscopic details. This is an unmistakable physical watercolor painting with loose broken pigment edges and rough freehand linework. The camera and major geometric shapes/three figures remain exact, but all containers, rails, machinery and clothing become economical painterly shapes with a few sketchy lines.\nPalette restricted to charcoal-black diluted ink, burnt sepia, dirty ivory gray paper, a tiny rusty ochre glimmer from existing lamps. Almost monochrome. Large black-sepia watercolor stains around machinery and gallery, smoky pigment pooling on pier, dry ragged brushwork on concrete, broken washes describing floor. Negative space creates the diagonal walking paths and slender highlights on rail edges. A few bold imperfect ink outlines help readable objects, with ink feathering naturally into wet wash. Dark mournful illustrated civicspace, intimate and weathered. Less realistic, more expressive than image2, dark values but no horror. Avoid full monochrome woodcut hatching; loose transparent pools and brushmarks remain primary.\nSpecifically remove most small bolts, repetitive container ridges and realistic reflected gradients. No smooth3D surfaces or pasted paper texture overlay."
+    }
+  ]
+}

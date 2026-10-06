@@ -1,0 +1,187 @@
+{
+  "source": "/Users/winstonhades/story/lcl",
+  "destination": "/Users/winstonhades/Documents/ChatGPT/lcl",
+  "excluded": [
+    ".git repository metadata",
+    ".DS_Store Finder metadata"
+  ],
+  "file_count": 35,
+  "files": [
+    {
+      "path": ".cursor/instructions.md",
+      "bytes": 16577,
+      "sha256": "2b153a693e7ecffc7c86eb0c21a5228f544e1a274f338078396b71ded9720f6a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 465,
+      "sha256": "38e2f47d4cc5d87d25d8309ecb0b1adc2fc168b8da248258a511425c7a175990"
+    },
+    {
+      "path": "docs/process/change-log.md",
+      "bytes": 2990,
+      "sha256": "44234d463b1894dc1e79aced62aee354d08368fdcf60817eb98e952fd40dc46d"
+    },
+    {
+      "path": "docs/process/instructions.md",
+      "bytes": 16553,
+      "sha256": "fdba83feb6ad0c3db80053f229959b8439b7f5228a4223bcef6df623508f05b3"
+    },
+    {
+      "path": "docs/process/owners.md",
+      "bytes": 3926,
+      "sha256": "b27db15d07a10280eebbcf8149a0154cbe26195ed30b3591d6a88e69479387dd"
+    },
+    {
+      "path": "docs/process/review-checklists.md",
+      "bytes": 4791,
+      "sha256": "8bf14d1673370a5575ab1364df9daec120683a4045dd8ecd728f1d5f5a500223"
+    },
+    {
+      "path": "docs/process/roadmap.md",
+      "bytes": 5892,
+      "sha256": "62f43c396db14daf85258335f333839411d769d3baa01ce36f1e9ae713c59c14"
+    },
+    {
+      "path": "docs/process/submission-template.md",
+      "bytes": 1612,
+      "sha256": "fa7d09e12c824bb020f4031b1e542e016b203ea31985bca3c99f9b0a0dbfbb6f"
+    },
+    {
+      "path": "docs/templates/character.template.md",
+      "bytes": 1118,
+      "sha256": "895b70e1688053f29411748e2f8ec411b5c8afca210bcf4e2b374afa91941582"
+    },
+    {
+      "path": "docs/templates/ending.template.md",
+      "bytes": 903,
+      "sha256": "c9441bb6e3e2c662a8f82ff0bc1c68bfc10e98297f6454850a85bfb6e9554bd0"
+    },
+    {
+      "path": "docs/templates/faction.template.md",
+      "bytes": 1124,
+      "sha256": "3accc0a3e9c9111a8b1850c521bb96fa4cce5ae209e353223b306765e861260f"
+    },
+    {
+      "path": "docs/templates/location.template.md",
+      "bytes": 955,
+      "sha256": "5ad9967635f4d144cdcc2abb67b5fdcba5da5ea68cb66c03ccf159eae384a4cf"
+    },
+    {
+      "path": "docs/templates/quest.template.md",
+      "bytes": 1132,
+      "sha256": "225135173e7490a98b98ec7ab6274aa7252fbcbd057ce94c16ef12ea4b5f421f"
+    },
+    {
+      "path": "docs/templates/region.template.md",
+      "bytes": 941,
+      "sha256": "d86726ee989a4852a0158b94c6d930d542fb7136bb020fb056eeca1ec3f65baa"
+    },
+    {
+      "path": "docs/templates/scene.template.md",
+      "bytes": 959,
+      "sha256": "e99d88b5aa4f72e4e572128f3c69a92c421693a560583a2b2d6976d51b449c73"
+    },
+    {
+      "path": "legacy/architect.md",
+      "bytes": 5744,
+      "sha256": "3bd2f7b2dd6f207eaffaac4a7356f4775f2a8b06753686d001776fcdfc6c0938"
+    },
+    {
+      "path": "legacy/characters-narratives.md",
+      "bytes": 9885,
+      "sha256": "0b6c89a1c81d7c0501da5d5a20486ea3e8ecec576190f0f4544c862159424689"
+    },
+    {
+      "path": "legacy/core-idea.md",
+      "bytes": 5938,
+      "sha256": "87f38ed1b89cb8df2081beafb02c959ed5a2a040be06b083e7914697482f84d1"
+    },
+    {
+      "path": "legacy/events-terminology.md",
+      "bytes": 8102,
+      "sha256": "f697b453ac1325c7ff15222f0e2dc55b148e50aae86b06d47046106fbe4f2bb6"
+    },
+    {
+      "path": "legacy/factions-species-relationship.md",
+      "bytes": 5823,
+      "sha256": "f42d3b075ba8d0c33ef30a34a3737875a43c94c8cf9bf7cdbfd0a40c16c70924"
+    },
+    {
+      "path": "legacy/factions.md",
+      "bytes": 10184,
+      "sha256": "d451e922300995bc1f4c6622334602cb2f8cf3c1a36a199b8f90099bac869f6e"
+    },
+    {
+      "path": "legacy/gamemechanics.md",
+      "bytes": 10249,
+      "sha256": "6a3fbf7a3666130d65b72be7bf1ce9cd2b66ab6d27eb6897ff4c60fea27bc047"
+    },
+    {
+      "path": "legacy/lcl.md",
+      "bytes": 11689,
+      "sha256": "318f690447ec2d56575012c910dc57d7aae65604638edee0e9376277e21f69af"
+    },
+    {
+      "path": "legacy/prophecy.md",
+      "bytes": 4428,
+      "sha256": "bbd7da42f051fa922201da9e95e22efa2d18e191d0d6a2bbc7c86de321ee5c05"
+    },
+    {
+      "path": "legacy/regions-locations.md",
+      "bytes": 9256,
+      "sha256": "8959abc893c0de30ef767238286d6425291662d6c63f7db06b0361e06c4cbef2"
+    },
+    {
+      "path": "legacy/roadmen.md",
+      "bytes": 6761,
+      "sha256": "e2c82c07e74178c280a8e34cf3053de8938eabb98d4a42e8375744dce7f89772"
+    },
+    {
+      "path": "legacy/settlements.md",
+      "bytes": 2236,
+      "sha256": "3cc1837bfcc3fb7b0d0af10f624c05b822c309d5f570c3e6ddaa9e0f4f7fd6ed"
+    },
+    {
+      "path": "legacy/species.md",
+      "bytes": 8469,
+      "sha256": "bf1dfd7aebeda84242b80735f85a023de72bb5493eab08094f9696ba3f3fa527"
+    },
+    {
+      "path": "legacy/technologies.md",
+      "bytes": 6350,
+      "sha256": "72930f6a67854a5089c98ad154a9ea019b3872fe97bafe728c5e432bda00ea9a"
+    },
+    {
+      "path": "legacy/terrans-alternative.md",
+      "bytes": 7938,
+      "sha256": "2e128d83390204ce16c0a32429160b32b069b3cddbb07b21e536be8b97849960"
+    },
+    {
+      "path": "legacy/terrans.md",
+      "bytes": 18365,
+      "sha256": "a7443540e32acbae3b5f2bc1974e9042521467bceacba66b633f2b038add8d6c"
+    },
+    {
+      "path": "legacy/themes-symbolism.md",
+      "bytes": 8088,
+      "sha256": "65ff5ac790a73e2cb8df69011fed0214dc2a26b92e7b237abe32dd9f495f2e56"
+    },
+    {
+      "path": "legacy/tone-style.md",
+      "bytes": 7678,
+      "sha256": "82954f7cabcbd43affda73fa99b94b9f67fbb280f907f7ed589c198ff409ccee"
+    },
+    {
+      "path": "legacy/visual-design.md",
+      "bytes": 10551,
+      "sha256": "21a2ec2b0a2e3dfb753b93af06cbdfa4b508db6b2f97f97e2e41833a242b50aa"
+    },
+    {
+      "path": "legacy/world.md",
+      "bytes": 12346,
+      "sha256": "f70de9045cacc8ca255a566bb26734da35375427169d849b03055987e4caf059"
+    }
+  ],
+  "original_git_head": "7dc5488c6f9092089d4200836fea136f2facfbab"
+}

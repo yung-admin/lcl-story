@@ -1,0 +1,38 @@
+{
+  "batch": "round-04",
+  "id": "r04-02-bowl-watch",
+  "title": "Bowl Watch",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: stylized-concept.\nAsset type: LCL RPG culture-and-technology exploration round04, \"Bowl Watch\".\nINPUT image Paper station is STYLE, CAMERA and TECH rendering reference ONLY. Retain its elevated overhead nearparallel oblique/trimetric view, dark granular watercolor and amber human light pools. Make a NEW SCENE: a provision monastery's automated food hall. Do NOT copy trains, rails, freight containers, the station gate or its spatial layout.\nHypothesis: sincere solemn community ritual has formed around the OPERATING CYCLE of a still-functioning civic food machine. Show exactly FOUR modestly practically robed inhabitants standing at four worn floor positions, each holding a simple bowl, patiently watching an operating dispenser. A FIFTH person is the maintainer working at an open side service cassette, with repair tools purposefully organized. Practical robes are patched utilitarian garments, unadorned and without masks. Reverence appears in composed waiting postures and carefully arranged clean bowls, not fantasy religious symbols.\nTechnology centerpiece: a pale cream ceramic/enamel food dispenser ring set into a shallow wall recess, with curved protected channels and four recessed portion modules. Articulated counterweighted tray-carrier arms present simple bowls at waist height. Overhead a protected food supply pipe crosses to a narrow metal service gallery. Purposeful ceramic couplers, clean maintained joints, discrete repeated green status lenses indicate cycle stages. A service cassette opened only at the maintainer's side, the rest functioning and cared for. This feels advanced, slightly mysterious municipal automation inherited by ordinary people. Selected medium machinery detail and obvious operating function, not all broken equipment.\nArchitecture and composition: large plain civic concrete piers, quiet simple walls, broad readable open floor with worn standing spots. A repaired timber bench and neat bowl rack nearby. Camera fixed elevated OVERHEAD threequarter oblique/trimetric nearparallel, continuous grounded playfield filling landscape16:9 and cropped beyond edges; no horizon or vanishingpoint lens. Human figures small in environment, consistent scale.\nPainting: dark charcoal and umber watercolor washes, paper granulation, translucent pooling, ragged lost edges, large tonal masses; sparse selected ink for readable people and technical silhouettes. Amber local task lamps focused around bowl-holders and repair work; cream dispenser and tiny green status hints, dark surrounding iron. Watercolor painting, not 3D render with grain overlay. Floor shapes keep paths legible. No tiny object noise.\nAvoid: medieval church/cathedral, occult magic, religious icons, crosses, halos, candles, fire, monsters, Fallout assets, trains, extra people, UI/text/logos/watermark, cinematic perspective, floating diorama, photorealistic CGI.",
+  "references": [
+    {
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-03/r03-04-paper.png",
+      "role": "Painting, camera and technical-rendering reference only; new composition and setting"
+    }
+  ],
+  "parentImageId": "r03-04-paper",
+  "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-a232-7b33-a2c0-d502568cd912/exec-a7fbca6c-284d-4672-be66-c697a12dacca.png",
+  "savedPath": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-04/r04-02-bowl-watch.png",
+  "dimensions": {
+    "width": 1672,
+    "height": 941
+  },
+  "observedFeatures": {
+    "style": "Granular watercolour",
+    "lighting": "Amber practicals / dim charcoal ambient",
+    "palette": "Charcoal / umber / pale enamel / small green status",
+    "texture": "Paper washes / worn enamel",
+    "detail": "Medium",
+    "shapes": "Civic piers / modular curved dispenser bank",
+    "goofiness": "Grounded",
+    "atmosphere": "Solemn attentive provision ritual",
+    "filter": "Paint wash"
+  },
+  "observations": "Exactly four practical-robed bowl-holders wait on individual worn outlined floor positions facing four pale recessed dispenser modules; fifth maintainer works at open side service cassette. Each module presents a bowl on an articulated tray, with discrete green repeater status lenses. Overhead pale coupled supply pipe and metal service gallery; repaired timber bench and carefully stocked bowl rack left. Readable wide foreground floor.",
+  "styleDrift": "Paper's charcoal/umber granular washes and localized amber light retained. Bowl rack, pipe collars and service internals have more repeating small detail than broad-paint ideal, but main machines remain readable. More amber light near entire dispenser face than only isolated human nooks.",
+  "cameraDrift": "Fixed elevated overhead nearparallel oblique/trimetric playfield maintained; continuous cropped floor and gallery, no horizon or floating base. Composition entirely new with dispenser across rear wall and repair cassette on right.",
+  "technology": "Purpose is legible: protected supply pipe feeds four recessed portion bays, articulated carriers present bowls, aligned green status lenses repeat along pipe and bays. Open service access only at maintainer; apparatus appears otherwise operating.",
+  "culture": "Waiting positions, individually held bowls, neatly stored bowls and quiet uniform posture suggest sincere daily ritual around provision timing; practical robes and repair work ground this in civic inheritance. No occult or generic religious iconography.",
+  "mystery": "Why waiting order and repeated green indicators have become observances is implied, not explained. The machine's internal operating cycle remains partly hidden within pale pipe and wall modules.",
+  "hypothesisDrift": "Requested circular dispenser ring became a gently bowed horizontal modular bank rather than clear annular ring. Counterweights are not distinctly visible; articulated tray mechanisms are. Solemn faith is conveyed through posture and orderly arrangement, not provable from a still image."
+}

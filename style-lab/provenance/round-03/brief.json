@@ -1,0 +1,20 @@
+{
+  "round": "round-03",
+  "date": "2026-10-04",
+  "userFeedback": "embers give me the nicest vibe but wash is the most interesting and unique",
+  "authorization": "try it",
+  "parents": [
+    "r02-06-embers",
+    "r02-07-wash"
+  ],
+  "method": "Three reference-based paintings and one new descriptive painting without image inputs.",
+  "hypotheses": [
+    "Hearth: warm ambient pigment",
+    "Lantern: stronger amber/charcoal contrast",
+    "Pigment: stronger rust washes and dissolved margins",
+    "Paper: fresh layout, darker ambient and local practical light"
+  ],
+  "feedbackContext": "Explicit conversational feedback; no round-02 verdicts or completed round reviews in the saved Site tables at generation time. Do not infer other trait approvals.",
+  "invariants": "Fixed elevated near-parallel oblique/trimetric continuous station, three people, human corner left, closed gate and freight right. Fine Wash layout drift retained in first three; Paper redraw changes composition.",
+  "acceptance": "Awaiting review; these do not establish final canon."
+}

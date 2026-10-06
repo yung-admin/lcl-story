@@ -224,7 +224,7 @@ Trade is dangerous because power fluctuations and machine patrols can erase whol
 
 The world runs on decaying automation. Every working system has a maintenance curve — entropy creeping back in.
 Communities spend all their time simply keeping what little they have alive.
-No one builds new things; there’s no capacity left for creation.
+Most communities have little capacity for large new infrastructure. Repairs, adapted tools, household craft, and ornament still allow invention; automated replacement continues where surviving systems support it.
 Every day is spent preventing collapse.
 
 > “You don’t own tomorrow — you lease it from rust.”
@@ -263,5 +263,6 @@ That’s why speaking the LCL — re-establishing dialogue — feels divine.
 
 ---
 
+## Visual and Acoustic Clarification — Accepted 2026-10-03
 
-
+The Hush is the loss of reciprocal communication and human inclusion, not universal acoustic silence. Mechanical routines persist. Autonomous upkeep, human maintenance, and neglect overlap in the same places; working surfaces can remain immaculate beside unmet human needs. Regional daylight and ordinary human beauty are part of the world. Follow the [visual guide](visual-design.md) and [tone guide](tone-style.md).

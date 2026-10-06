@@ -1,5 +1,7 @@
 # Cursor Instructions for Worldbuilding & Manuscript (Open‑World RPG)
 
+Current LCL continuation starts with `AGENTS.md` and `docs/process/handover.md`. This inherited playbook contains illustrative Logos material and an older narrative-only scope; the user has since authorized art exploration and the Style Lab. Its examples, counts and proposed folder structure do not establish LCL canon or completed migration.
+
 These instructions guide AI agents and human writers in **Cursor** when creating worldbuilding materials, narrative beats, quests, dialogue, and the final manuscript for an open‑world RPG. They mirror engineering playbooks (feature files, roadmaps, ownership), but are tailored to **content, canon, and branching story design**. No code or art lives here—this repo is for narrative and design only.
 
 ---
@@ -504,4 +506,3 @@ canon-status: draft
 ---
 
 *This document is intentionally modular—extend templates and checklists as the world solidifies.*
-

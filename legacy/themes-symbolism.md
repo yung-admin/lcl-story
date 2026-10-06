@@ -13,9 +13,9 @@ This section defines the recurring *ideas and motifs* that bind all factions, te
 
 The defining principle of the post-Hush world.
 
-* Nothing is new — everything is *repaired, patched, repurposed.*
-* The aesthetic of survival is *maintenance*, not invention.
-* Function replaces perfection; ugliness becomes authenticity.
+* Repair and reuse dominate human life. Automated replacement can leave components looking new; human craft can produce tools, ornament, and carefully restored finishes.
+* Maintenance sustains survival while human invention appears in adaptations, local craft, and new uses of inherited systems.
+* Function and care establish value. Competent repairs, precise machinery, and ordinary beauty coexist with improvisation; ugliness is not a requirement for authenticity.
 * Each repair tells a lineage — who touched it, why, and what they valued.
 
 **Symbolism:**
@@ -45,7 +45,7 @@ Every hum, every word, is a political act.
 
 ## **3. Ownership through Maintenance**
 
-Power is no longer inherited or bought — it’s **earned through upkeep**.
+Power is legitimized through **upkeep**, though factions can exploit that claim. The care shown by a polished surface is selective; it does not prove that its maintainer cares for people.
 
 * To own a thing is to understand it.
 * To let something decay is the only crime.
@@ -157,7 +157,7 @@ Forgetting is peace; remembering is pain.
 
 Every piece of technology reflects human behavior back at them.
 
-* Machines without users become feral.
+* Machines without human users may remain exact and self-maintained. Others deteriorate or repeat incomplete routines; distinguish these conditions visually.
 * Systems repeat human mistakes algorithmically.
 * The more the world automates morality, the more human choices still echo inside it.
 
@@ -232,3 +232,7 @@ The player’s moral arc asks:
 > and no one dared to exhale.”*
 
 ---
+
+## Aesthetic Application — Accepted 2026-10-03
+
+Colour and material associations are motifs, not moral verdicts. Human clinics may use cold white light; an indifferent machine may glow amber. Ordinary ornament expresses preferences outside a maintenance ledger. LCL reveals recognition in an already active world. See the [visual direction](visual-design.md) and [tone guide](tone-style.md).

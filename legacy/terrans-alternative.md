@@ -138,7 +138,7 @@ To the world, the Terrans became half myth, half religion: *the ones who spoke t
 | **Amber Spiral**       | Symbol of the Custodian Protocol — represents continuity through entropy. Often mistaken for religious iconography. |
 | **Handprint on Steel** | The human signature left on machines; a mark of stewardship.                                                        |
 | **The Line**           | The physical metaphor of Terran philosophy — connection through maintenance.                                        |
-| **Rust & Tape**        | Their holy materials: proof that perfection was never the goal.                                                     |
+| **Repair Evidence** | Fitted patches, careful wiring, stitching, rust, and tape reveal stewardship and its limits; good workmanship can be beautiful. |
 
 ---
 
@@ -177,3 +177,7 @@ By the end, you’re not reviving their world — you’re deciding if they were
 > Then it listened too well.”*
 
 ---
+
+## Aesthetic Scope
+
+The [accepted visual direction](visual-design.md) governs representation. Terran care appears through repairability, skilled interventions, and personal attachment rather than compulsory grime. This aesthetic revision does not resolve the alternative Terran origin accounts.

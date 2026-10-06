@@ -1,0 +1,35 @@
+{
+  "round": "round-03",
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "id": "r03-02-lantern",
+      "name": "Lantern",
+      "parents": [
+        "r02-07-wash",
+        "r02-06-embers"
+      ],
+      "references": [
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-07-wash.png",
+        "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-02/r02-06-embers.png"
+      ],
+      "referenceRoles": [
+        "Primary painting and composition reference",
+        "Secondary palette and practical-light inspiration"
+      ],
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-03/r03-02-lantern.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-3b1444b4-727e-4f1f-8b13-a00e1a107c69.png",
+      "prompt": "Use case: stylized-concept\nAsset type: landscape 16:9 RPG watercolor style study named Lantern.\nInput image 1: WASH, primary composition and painted-medium reference. Its broad physical watercolor shapes, simplified machinery, broken edges and low detail must survive.\nInput image 2: EMBERS, secondary inspiration ONLY for warm amber practical light and umber/charcoal contrast. Do NOT import its precision, high detail, geometry, surface rendering or microtexture.\nPrimary request: Repaint the entire scene from image1 as a dark physical watercolor painting warmed by bright but tightly concentrated amber lamp pools near HUMAN ACTIVITY. It remains a watercolorist's loose painting on cold-pressed paper. Broad translucent umber, sepia, charcoal and Payne's-gray pigment shapes with granulated stains, ragged washes, selective imperfect thin pen lines, soft lost edges and visible tinted paper. Avoid any impression of a 3D render with watercolor overlay.\nScene invariants: Retain image1's elevated overhead three-quarter near-parallel oblique/trimetric camera and continuous grounded municipal station. Upper-left black-railed pedestrian gallery and center-left staircase, repairbench beneath gallery with standing repairer, lower-left bench with seated person/cushion/small tea table/plant, large center concrete pier with coffee dispenser and small relay, traveler center-right before CLOSED glass barrier, parallel freight rails/two cargo containers/overhead crane right. Exactly these three small people, same locations and approximate poses. No new scene props.\nLighting experiment: existing lamp above left repairbench casts a strong local amber wash with expressive ochre edges around the repairer's hands and workbench; existing centralpier lamp casts a second small honey-amber pool. Let this light gently reach the seated person's bench corner, without adding fixtures. Small relay understated. Surrounding freight and uppergallery stay in deep charcoal/umber shadow. Light strongest near human activity and useful machines. Walking ground midtone papergray remains readable, never full-black.\nMedium priority: Simplify industrial detail into broad irregular washes like image1 or looser. Container surfaces have a handful of implied marks, not repeated ridges; rail/gantry silhouettes only a few freehand strokes. People are economical painted silhouettes with a few amber edges. No crisp CGI metal, no perfectly outlined every edge, no reflective glossy gradients, no cinematic bloom, no neon bath. Strong amber against dark shadows is a pigment/value decision.\nNo text/UI/watermarks, flames/fire, horror creatures, extra objects, horizon, floating diorama, depth-of-field or lens perspective. Keep all scene anchors and framing, but paint rather than pixel-copy.",
+      "features": {
+        "lighting": "Strong amber practical pools",
+        "goofiness": "Grounded",
+        "palette": "Charcoal / umber / honey amber",
+        "filter": "Broad stained pigment",
+        "texture": "Granulated broken washes",
+        "edges": "Selective ink + lost edges",
+        "medium": "Warm loose watercolor"
+      },
+      "observations": "Wash composition and all three figure positions preserved closely. Clear amber warmth added around repairbench, centralpier and seatedbench against charcoal/umber freight shadows. Broad pigment shapes, granulated stains and simplified containers remain, without reverting to Embers' crisp machine microdetail. Floor texture denser than Wash and amber spreads across much left-central ground; a warm uppergallery lamp area also strengthened, so light is localized but not exclusively human activity. A few rail/crane contours remain crisp; painterly abstraction largely survives. Barrier unchanged and no new major props or text."
+    }
+  ]
+}

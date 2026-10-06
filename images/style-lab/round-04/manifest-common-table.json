@@ -1,0 +1,42 @@
+{
+  "round": "round-04",
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "id": "r04-01-common-table",
+      "name": "Common Table",
+      "conceptualParents": [
+        "r03-04-paper"
+      ],
+      "references": [
+        {
+          "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-03/r03-04-paper.png",
+          "role": "Style, camera and technology-handling only; new scene and topology"
+        }
+      ],
+      "path": "/Users/winstonhades/Documents/ChatGPT/lcl/images/style-lab/round-04/r04-01-common-table.png",
+      "originalPath": "/Users/winstonhades/.codex/generated_images/01a10395-3f24-7810-8601-592f6bb0e41d/exec-6428a63b-2854-4bda-9595-59a8001a9547.png",
+      "prompt": "Use case: stylized-concept\nAsset type: 16:9 RPG scene style study, Common Table.\nInput image1: style, camera and technology-handling reference ONLY. Use its mature dark charcoal/umber physical watercolor, broad pigment shapes, selective mid-level machine detail, local amber task lights, open playable floor, near-parallel overhead view. Create a completely NEW monastery provision hall, not the reference railway station. Do not reproduce trains, freight containers, station barrier or reference topology.\nScene: a European municipal industrial hall repurposed by a small monastic care community into a shared meal and provision room. Elevated overhead three-quarter oblique/trimetric near-parallel view, continuous floor filling landscape frame, roof/wall cutaway to see playfield, consistent small human scale, no horizon or vanishing point or floating diorama.\nArchitecture: tall square concrete piers, upper service gallery with simple black rails and a utilitarian staircase at left. Broad open midtone floor with clean paths linking people, tables, food machines and washing area.\nCentral story technology: along upper-right wall is a LARGE distinctive pale ceramic/enamel modular food dispenser assembly. Precisely assembled municipal infrastructure: recessed small amber dispensing lamps, rectangular replaceable service cassette with latches, visible compact couplers and jointed folding tray arms presenting filled bowls. Components readable selectively, medium detail, handmade watercolor edges rather than glossy CGI. A sealed dark machine service lane behind the dispenser wall glimpsed through a narrow service opening; machine maintenance arranged coolly and orderly. This installed municipal provision system quietly feeds the community, for reasons the picture does not explain.\nHuman foreground: two shared worn wooden tables, a repaired bench with careful joinery, modest bowls and spoons, a tiny herb pot, a drying cloth near a practical washing basin. Domestic details modest, useful and intentional, not heaps of scrap or decorative medieval treasure.\nExactly FIVE small adult inhabitants: two seated at a shared table eating from bowls; one standing serving a bowl from a dispenser tray; one washing a bowl at basin left; one calmly checking the visible service cassette. Practical modest charcoal/brown robes and work aprons, plain comfortable layers, no theatrical fantasy hoods, no military costumes. Their lives portray sincere monastic care, routine cooperation and thoughtful skilled maintenance. No church crosses, halos, altars or magical ritual.\nLighting/mood: dark charcoal and umber hall, pale gray-ivory enamel and floor, small restrained ochre amber pools focused on food pickup and table. People area feels warm, machinery feels ordered and impersonal. Quiet adult melancholy with dignity; not scary, goofy or triumphant. No neon bath or cinematic bloom.\nMedium: physical watercolor on cold-pressed paper; large transparent stains, granulated deep washes, broken drybrush edges, exposed tinted paper floor, selective irregular ink contours on piers and practical machinery. Simplify repetitive bolts and tiny background textures. Do not recreate smooth3D shaded metal covered in texture. Keep machinery legible enough to understand modular dispensing.\nNo text, labels, UI, watermark, Fallout iconography, generic medieval temple, sci-fi cathedral, mystic runes, magic particles, fire, creatures, added characters. Wide continuous room, grounded connected playable paths.",
+      "dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "features": {
+        "lighting": "Local amber provision light",
+        "goofiness": "Grounded",
+        "palette": "Umber / charcoal / pale enamel",
+        "filter": "Granulated watercolor",
+        "texture": "Broken pigment + selective detail",
+        "edges": "Selective architectural contours",
+        "medium": "Dark watercolor civic hall"
+      },
+      "observations": {
+        "style": "Paper's dark earthy pigment shapes and amber practical lamps survive, though wood/enamel/people rendered with more precise volume and small detail than the loosest watercolor treatments. Floor and piers show broken granulated wash texture. No CGI gloss or global neon.",
+        "camera": "Elevated overhead three-quarter near-parallel composition; connected floor/paths, leftservicegallery/stair, no horizon/floatingisland. Scene clearly redesigned rather than railwaytopologycopy. Some mild depth convergence possible, not calibrated projection proof.",
+        "technology": "Large modular paleenamel fooddispensingwall dominates upperright, repeated recessed amber bowloutlets and foldingtrayledges, dark joints/servicepanel with residentchecking it, machineaccesslane behind. Fold arms/couplers less explicit than prompt; still clear ordered installedfood infrastructure.",
+        "culture": "Exactlyfive small adults: two eating atsharedwoodtable, one serving/pickingupbowl atdispenser, onewashing atleftbasin, onechecking servicepanel. Repairedbanches/tables, cloth/herbpots, bowls, modestrobes/aprons signal routinecare. Robes mostlyuniformmonasticbrown; added producebasket/storageclutter and additionalpottedplants beyond minimumbrief, but no fantasycathedral/crosses.",
+        "mystery": "Communal dependence on foodmachine is visible, but reasonmachinefeedspeople remains unstated. The picture communicates normal helpful provision more strongly than an uncanny hiddenpurpose; no encodedtext explanation."
+      }
+    }
+  ]
+}
